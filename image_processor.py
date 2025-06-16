@@ -184,44 +184,146 @@ class ImageProcessor:
     # 5. Greasy Lesion Shape Irregularity
     def analyze_shape_irregularity(self):
         """
-        Calculate the average shape irregularity of greasy lesions.
+        Detects greasy spots on a leaf and measures their count and shape irregularity.
+
+        Returns:
+            - Annotated image with bounding boxes
+            - Count of greasy spots
+            - Average shape irregularity (1 - circularity)
         """
-        _, thresh = cv2.threshold(self.gray, 60, 255, cv2.THRESH_BINARY_INV)
+        # find leaf mask to eliminate background
+        leaf_mask = self.detect_leaf_mask()
+        # Convert to grayscale
+        gray = self.gray
+
+        # Apply leaf mask to grayscale image before thresholding
+        masked_gray = cv2.bitwise_and(gray, gray, mask=leaf_mask)
+
+        # Apply adaptive threshold to highlight dark spots
+        thresh = cv2.adaptiveThreshold(
+            masked_gray, 255,
+            cv2.ADAPTIVE_THRESH_MEAN_C,
+            cv2.THRESH_BINARY_INV,
+            blockSize=11, C=3
+        )
+
+        # Find contours in the thresholded image
         contours, _ = cv2.findContours(
             thresh, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
-        shape_irregularity = [cv2.arcLength(
-            c, True) ** 2 / (4 * np.pi * cv2.contourArea(c)) for c in contours if cv2.contourArea(c) > 30]
-        self.results['avg_irregularity'] = np.mean(
-            shape_irregularity) if shape_irregularity else 0
+
+        greasy_spots = []  # store the greasy spots
+        irregularities = []
+
+        result = self.image.copy()
+
+        for c in contours:
+            area = cv2.contourArea(c)
+            if 20 < area < 500:  # Filter small noise and large blotches
+                perimeter = cv2.arcLength(c, True)
+                circularity = 4 * np.pi * area / \
+                    (perimeter ** 2) if perimeter != 0 else 0
+                irregularity = 1 - circularity  # Higher = more irregular
+                irregularities.append(irregularity)
+                greasy_spots.append(c)
+
+                # Draw bounding box
+                x, y, w, h = cv2.boundingRect(c)
+                cv2.rectangle(result, (x, y), (x + w, y + h), (0, 255, 0), 1)
+
+        # Compute average irregularity
+        avg_irregularity = np.mean(irregularities) if irregularities else 0
+
+        result_rgb = cv2.cvtColor(result, cv2.COLOR_BGR2RGB)
+
+        self.results['gressy_lesion_count'] = len(greasy_spots)
+        self.results['avg_lesion_irregularity'] = round(avg_irregularity, 2)
 
     # 6. HSV Color Shift
     def analyze_hsv_shift(self):
         """
-        Calculate the HSV color shift in lesions.
+        Calculates the HSV color shift between infected (brown/yellow) and healthy (green) regions.
+        Useful for detecting color progression like 'yellow-green → brown-red'.
         """
-        lesion_mask = cv2.inRange(self.gray, 0, 80)
-        mean_hsv = cv2.mean(self.hsv, mask=lesion_mask)[:3]
-        self.results['hsv_shift'] = np.linalg.norm(
-            np.array(mean_hsv) - np.array([60, 60, 60]))
+        min_lesion_pixels = 100
+
+        lesion_mask = cv2.inRange(self.hsv, (5, 100, 50), (25, 255, 200))
+        healthy_mask = cv2.inRange(self.hsv, (35, 40, 40), (85, 255, 255))
+
+        lesion_pixel_count = np.count_nonzero(lesion_mask)
+
+        if lesion_pixel_count > min_lesion_pixels:
+            mean_lesion = np.array(cv2.mean(self.hsv, mask=lesion_mask)[:3])
+            mean_healthy = np.array(cv2.mean(self.hsv, mask=healthy_mask)[:3])
+            self.results['hsv_shift'] = round(np.linalg.norm(
+                mean_lesion - mean_healthy), 2)
+        else:
+            # Too few pixels to trust measurement
+            self.results['hsv_shift'] = 0
 
     # 7. Edge Roughness Index
+
     def analyze_edge_roughness(self):
         """
-        Calculate the edge roughness index.
+        Returns:
+        - perimeter/area ratio
+        - solidity (area / convex hull area)
+        - mean Sobel gradient (edge texture)
         """
-        edges = cv2.Canny(self.gray, 100, 200)
-        total_area = self.image.shape[0] * self.image.shape[1]
-        roughness = cv2.countNonZero(edges) / total_area
-        self.results['edge_roughness'] = roughness
+        mask = self.detect_leaf_mask()
+
+        # --- Contour-based metrics (perimeter/area, solidity) ---
+        contours, _ = cv2.findContours(
+            mask, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
+        if not contours:
+            return {"error": "No leaf contour found"}
+
+        cnt = max(contours, key=cv2.contourArea)
+        perimeter = cv2.arcLength(cnt, True)
+        area = cv2.contourArea(cnt)
+        hull = cv2.convexHull(cnt)
+        hull_area = cv2.contourArea(hull)
+
+        roughness_ratio = perimeter / area if area != 0 else 0
+        solidity = area / hull_area if hull_area != 0 else 0
+
+        # --- Sobel gradient (edge sharpness) ---
+        gray = cv2.cvtColor(self.image, cv2.COLOR_BGR2GRAY)
+        sobelx = cv2.Sobel(gray, cv2.CV_64F, 1, 0)
+        sobely = cv2.Sobel(gray, cv2.CV_64F, 0, 1)
+        magnitude = np.sqrt(sobelx**2 + sobely**2)
+        mean_gradient = np.mean(magnitude)
+
+        # return {
+        #     "perimeter_area_ratio": round(roughness_ratio, 4),
+        #     "solidity": round(solidity, 4),
+        #     "mean_sobel_gradient": round(mean_gradient, 2)
+        # }
+
+        self.results['edge_roughness'] = "rough" if round(
+            solidity, 2) < 0.90 else "smooth"
 
     # 8. Curl Index: width to height ratio
     def analyze_curl_index(self):
-        """
-        Calculate the curl index (width to height ratio).
-        """
-        _, thresh = cv2.threshold(self.gray, 60, 255, cv2.THRESH_BINARY_INV)
-        x, y, w, h = cv2.boundingRect(thresh)
-        self.results['curl_index'] = round(w / h, 0) if h != 0 else 0
+        mask = self.detect_leaf_mask()
+        contours, _ = cv2.findContours(
+            mask, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
+        if not contours:
+            self.results['curl_index'] = 0
+            return
+        cnt = max(contours, key=cv2.contourArea)
+
+        # Fit rotated rectangle
+        rect = cv2.minAreaRect(cnt)
+        (x, y), (w, h), angle = rect
+        aspect_ratio = min(w, h) / max(w, h)
+
+        # Perimeter to convex hull perimeter (curl index)
+        perimeter = cv2.arcLength(cnt, True)
+        hull = cv2.convexHull(cnt)
+        hull_perimeter = cv2.arcLength(hull, True)
+        curl_index = perimeter / hull_perimeter if hull_perimeter != 0 else 0
+
+        self.results['curl_index'] = curl_index
 
     # 9. Texture Entropy using GLCM
     def analyze_texture_entropy(self):
@@ -246,7 +348,21 @@ class ImageProcessor:
         """
         Analyze green intensity and branch count.
         """
-        mean_green = np.mean(self.image[:, :, 1])
+        # Extract the leaf mask
+        mask = self.detect_leaf_mask()
+
+        # Split the image into BGR channels
+        b, g, r = cv2.split(self.image)
+
+        # Use the mask to extract green values from leaf only
+        green_pixels = g[mask > 0]
+
+        # Compute mean green value
+        mean_green = np.mean(green_pixels) if green_pixels.size > 0 else 0
+
+        # Create visual masked image
+        masked_leaf = cv2.bitwise_and(self.image, self.image, mask=mask)
+        masked_rgb = cv2.cvtColor(masked_leaf, cv2.COLOR_BGR2RGB)
         self.results['mean_green_intensity'] = mean_green
         self.results['branch_count'] = "Manual or skeleton-based count"
 
@@ -266,21 +382,55 @@ class ImageProcessor:
         """
         Calculate the percentage of rust area.
         """
-        rust_mask = cv2.inRange(self.hsv, (5, 100, 100), (20, 255, 255))
-        rust_area = np.sum(rust_mask > 0)
-        total_area = self.image.shape[0] * self.image.shape[1]
-        self.results['rust_area_percent'] = (rust_area / total_area) * 100
+        # Define HSV range for rust-colored regions
+        lower_rust = np.array([5, 100, 30])
+        upper_rust = np.array([20, 255, 150])
+
+        # Create rust mask
+        rust_mask = cv2.inRange(self.hsv, lower_rust, upper_rust)
+
+        # Create rust overlay
+        rust_overlay = cv2.bitwise_and(self.image, self.image, mask=rust_mask)
+
+        # Calculate rust area percent relative to image area
+        rust_area_percent = (np.sum(rust_mask > 0) /
+                             (self.image.shape[0] * self.image.shape[1])) * 100
+
+        rust_rgb = cv2.cvtColor(rust_overlay, cv2.COLOR_BGR2RGB)
+
+        self.results['rust_area_percent'] = round(rust_area_percent, 2)
 
     # 14. Pustule Count
     def analyze_pustule_count(self):
         """
         Count the number of pustules.
         """
+        # Leaf mask to eliminate background
+        leaf_mask = self.detect_leaf_mask()
+
+        # Rust color mask to identify pustules
         rust_mask = cv2.inRange(self.hsv, (5, 100, 100), (20, 255, 255))
+
+        # Apply leaf mask to rust mask
+        rust_on_leaf = cv2.bitwise_and(rust_mask, rust_mask, mask=leaf_mask)
+
+        # Find contours of rust-colored regions on leaf
         rust_contours, _ = cv2.findContours(
-            rust_mask, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
-        self.results['pustule_count'] = len(
-            [c for c in rust_contours if cv2.contourArea(c) > 10])
+            rust_on_leaf, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
+
+        # Count only valid-sized pustules
+        valid_pustules = [c for c in rust_contours if cv2.contourArea(c) > 10]
+
+        # Draw bounding boxes
+        result = self.image.copy()
+        for c in valid_pustules:
+            x, y, w, h = cv2.boundingRect(c)
+            cv2.rectangle(result, (x, y), (x + w, y + h), (0, 255, 0), 1)
+
+        # Draw contours
+        result_rgb_img = cv2.cvtColor(result, cv2.COLOR_BGR2RGB)
+
+        self.results['pustule_count'] = len(valid_pustules)
 
     # 15. Leaf Droop Angle
     def analyze_droop_angle(self):
@@ -288,3 +438,11 @@ class ImageProcessor:
         Estimate the leaf droop angle.
         """
         self.results['droop_angle'] = "Requires keypoint estimation or manual measurement"
+
+    # Process the leaf region
+    def detect_leaf_mask(self):
+        """Returns a binary mask of the leaf region (green/brown tones)."""
+        hsv = cv2.cvtColor(self.image, cv2.COLOR_BGR2HSV)
+        # Detect broad leaf color range
+        leaf_mask = cv2.inRange(hsv, (15, 40, 40), (90, 255, 255))
+        return leaf_mask
