@@ -17,5 +17,5 @@ def rename_files_in_directory(directory, prefix="file", start_index=1):
 
 
 # Replace with your directory path
-directory_path = ""
-rename_files_in_directory(directory_path, prefix="bacterial_spot")
+directory_path = "F://Users//Santanu//Desktop//paper_syn//tomato-leaves//healthy"
+rename_files_in_directory(directory_path, prefix="healthy")

@@ -1,0 +1,1883 @@
+image_id,disease,base_id,disease_list,match
+bacterial_spot_104,"['early_blight', 'bacterial_spot', 'rust']",bacterial_spot,"['early_blight', 'bacterial_spot', 'rust']",1
+bacterial_spot_105,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_108,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_109,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_117,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_119,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_121,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_126,"['early_blight', 'leaf_curl', 'bacterial_spot', 'rust']",bacterial_spot,"['early_blight', 'leaf_curl', 'bacterial_spot', 'rust']",1
+bacterial_spot_128,"['leaf_curl', 'bacterial_spot']",bacterial_spot,"['leaf_curl', 'bacterial_spot']",1
+bacterial_spot_130,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_131,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_14,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_145,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_150,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_156,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_158,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_161,"['early_blight', 'bacterial_spot', 'rust']",bacterial_spot,"['early_blight', 'bacterial_spot', 'rust']",1
+bacterial_spot_163,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_168,"['early_blight', 'bacterial_spot']",bacterial_spot,"['early_blight', 'bacterial_spot']",1
+bacterial_spot_173,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_174,"['leaf_curl', 'bacterial_spot']",bacterial_spot,"['leaf_curl', 'bacterial_spot']",1
+bacterial_spot_176,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_177,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_182,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_186,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_188,"['leaf_curl', 'bacterial_spot', 'rust']",bacterial_spot,"['leaf_curl', 'bacterial_spot', 'rust']",1
+bacterial_spot_189,"['early_blight', 'bacterial_spot', 'rust']",bacterial_spot,"['early_blight', 'bacterial_spot', 'rust']",1
+bacterial_spot_19,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_190,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_193,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_195,"['early_blight', 'bacterial_spot', 'rust']",bacterial_spot,"['early_blight', 'bacterial_spot', 'rust']",1
+bacterial_spot_2,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_201,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_202,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_214,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_217,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_22,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_224,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_225,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_229,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_230,"['early_blight', 'bacterial_spot', 'rust']",bacterial_spot,"['early_blight', 'bacterial_spot', 'rust']",1
+bacterial_spot_234,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_239,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_244,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_246,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_249,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_25,"['leaf_curl', 'bacterial_spot']",bacterial_spot,"['leaf_curl', 'bacterial_spot']",1
+bacterial_spot_250,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_251,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_252,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_256,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_260,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_261,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_267,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_268,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_272,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_284,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_287,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_288,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_29,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_291,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_294,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_299,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_3,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_300,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_302,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_303,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_312,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_32,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_326,"['early_blight', 'bacterial_spot']",bacterial_spot,"['early_blight', 'bacterial_spot']",1
+bacterial_spot_331,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_332,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_337,"['early_blight', 'bacterial_spot', 'rust']",bacterial_spot,"['early_blight', 'bacterial_spot', 'rust']",1
+bacterial_spot_342,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_344,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_345,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_346,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_347,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_348,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_350,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_352,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_353,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_355,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_357,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_361,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_373,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_375,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_376,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_378,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_380,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_382,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_384,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_387,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_388,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_392,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_397,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_399,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_40,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_401,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_403,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_405,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_406,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_409,"['leaf_curl', 'bacterial_spot']",bacterial_spot,"['leaf_curl', 'bacterial_spot']",1
+bacterial_spot_410,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_411,"['leaf_curl', 'bacterial_spot']",bacterial_spot,"['leaf_curl', 'bacterial_spot']",1
+bacterial_spot_417,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_422,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_428,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_429,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_434,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_436,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_437,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_443,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_444,"['early_blight', 'bacterial_spot']",bacterial_spot,"['early_blight', 'bacterial_spot']",1
+bacterial_spot_447,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_448,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_449,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_450,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_451,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_452,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_457,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_470,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_473,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_474,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_476,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_478,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_479,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_485,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_487,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_488,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_489,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_491,"['early_blight', 'bacterial_spot', 'rust']",bacterial_spot,"['early_blight', 'bacterial_spot', 'rust']",1
+bacterial_spot_492,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_496,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_499,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_502,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_503,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_505,"['early_blight', 'leaf_curl', 'bacterial_spot', 'rust']",bacterial_spot,"['early_blight', 'leaf_curl', 'bacterial_spot', 'rust']",1
+bacterial_spot_508,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_512,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_516,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_523,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_53,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_532,"['leaf_curl', 'bacterial_spot', 'rust']",bacterial_spot,"['leaf_curl', 'bacterial_spot', 'rust']",1
+bacterial_spot_535,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_538,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_540,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_544,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_548,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_549,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_568,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_572,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_577,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_579,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_580,"['early_blight', 'bacterial_spot', 'rust']",bacterial_spot,"['early_blight', 'bacterial_spot', 'rust']",1
+bacterial_spot_587,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_588,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_594,"['early_blight', 'bacterial_spot', 'rust']",bacterial_spot,"['early_blight', 'bacterial_spot', 'rust']",1
+bacterial_spot_596,"['early_blight', 'bacterial_spot', 'rust']",bacterial_spot,"['early_blight', 'bacterial_spot', 'rust']",1
+bacterial_spot_601,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_602,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_608,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_610,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_612,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_620,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_621,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_622,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_623,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_628,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_629,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_634,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_637,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_638,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_646,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_651,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_655,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_657,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_658,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_664,"['early_blight', 'bacterial_spot', 'rust']",bacterial_spot,"['early_blight', 'bacterial_spot', 'rust']",1
+bacterial_spot_668,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_672,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_674,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_680,"['early_blight', 'bacterial_spot', 'rust']",bacterial_spot,"['early_blight', 'bacterial_spot', 'rust']",1
+bacterial_spot_683,"['early_blight', 'leaf_curl', 'bacterial_spot']",bacterial_spot,"['early_blight', 'leaf_curl', 'bacterial_spot']",1
+bacterial_spot_684,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_690,"['early_blight', 'bacterial_spot']",bacterial_spot,"['early_blight', 'bacterial_spot']",1
+bacterial_spot_692,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_695,"['early_blight', 'bacterial_spot']",bacterial_spot,"['early_blight', 'bacterial_spot']",1
+bacterial_spot_697,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_699,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_7,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_701,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_702,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_705,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_706,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_707,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_73,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_730,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_732,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_734,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_735,"['early_blight', 'bacterial_spot']",bacterial_spot,"['early_blight', 'bacterial_spot']",1
+bacterial_spot_737,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_741,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_744,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_747,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_756,"['early_blight', 'bacterial_spot', 'rust']",bacterial_spot,"['early_blight', 'bacterial_spot', 'rust']",1
+bacterial_spot_761,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_766,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_769,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_772,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_776,"['early_blight', 'bacterial_spot', 'rust']",bacterial_spot,"['early_blight', 'bacterial_spot', 'rust']",1
+bacterial_spot_777,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_782,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_783,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_785,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_787,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_79,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_791,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_799,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_802,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_803,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_806,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_809,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_816,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_818,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_821,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_823,"['early_blight', 'leaf_curl', 'bacterial_spot', 'rust']",bacterial_spot,"['early_blight', 'leaf_curl', 'bacterial_spot', 'rust']",1
+bacterial_spot_825,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_826,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_828,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_832,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_84,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_842,"['leaf_curl', 'bacterial_spot', 'rust']",bacterial_spot,"['leaf_curl', 'bacterial_spot', 'rust']",1
+bacterial_spot_844,"['early_blight', 'bacterial_spot', 'rust']",bacterial_spot,"['early_blight', 'bacterial_spot', 'rust']",1
+bacterial_spot_848,"['early_blight', 'bacterial_spot', 'rust']",bacterial_spot,"['early_blight', 'bacterial_spot', 'rust']",1
+bacterial_spot_849,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_85,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_852,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_855,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_856,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_857,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_859,"['early_blight', 'bacterial_spot']",bacterial_spot,"['early_blight', 'bacterial_spot']",1
+bacterial_spot_86,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_860,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_863,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_871,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_873,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_879,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_880,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_882,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_886,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_890,"['leaf_curl', 'bacterial_spot']",bacterial_spot,"['leaf_curl', 'bacterial_spot']",1
+bacterial_spot_891,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_894,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_895,"['early_blight', 'bacterial_spot', 'rust']",bacterial_spot,"['early_blight', 'bacterial_spot', 'rust']",1
+bacterial_spot_899,"['early_blight', 'bacterial_spot', 'rust']",bacterial_spot,"['early_blight', 'bacterial_spot', 'rust']",1
+bacterial_spot_9,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_90,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_901,"['early_blight', 'bacterial_spot', 'rust']",bacterial_spot,"['early_blight', 'bacterial_spot', 'rust']",1
+bacterial_spot_903,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_905,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_907,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_912,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_913,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_916,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_924,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_925,"['early_blight', 'bacterial_spot', 'rust']",bacterial_spot,"['early_blight', 'bacterial_spot', 'rust']",1
+bacterial_spot_928,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_931,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_935,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_938,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_945,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_947,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_948,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_950,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_952,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_953,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_961,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_962,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_963,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_967,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_97,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_970,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_971,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_972,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_98,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_981,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_987,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_988,"['early_blight', 'leaf_curl', 'bacterial_spot', 'rust']",bacterial_spot,"['early_blight', 'leaf_curl', 'bacterial_spot', 'rust']",1
+bacterial_spot_989,"['early_blight', 'bacterial_spot', 'rust']",bacterial_spot,"['early_blight', 'bacterial_spot', 'rust']",1
+bacterial_spot_99,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_993,['bacterial_spot'],bacterial_spot,['bacterial_spot'],1
+bacterial_spot_994,"['bacterial_spot', 'rust']",bacterial_spot,"['bacterial_spot', 'rust']",1
+bacterial_spot_997,"['early_blight', 'leaf_curl', 'bacterial_spot', 'rust']",bacterial_spot,"['early_blight', 'leaf_curl', 'bacterial_spot', 'rust']",1
+early_blight_101,"['early_blight', 'rust']",early_blight,"['early_blight', 'rust']",1
+early_blight_104,"['early_blight', 'bacterial_spot']",early_blight,"['early_blight', 'bacterial_spot']",1
+early_blight_105,['early_blight'],early_blight,['early_blight'],1
+early_blight_107,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_110,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_114,"['early_blight', 'bacterial_spot']",early_blight,"['early_blight', 'bacterial_spot']",1
+early_blight_12,['early_blight'],early_blight,['early_blight'],1
+early_blight_122,['early_blight'],early_blight,['early_blight'],1
+early_blight_128,['early_blight'],early_blight,['early_blight'],1
+early_blight_13,['early_blight'],early_blight,['early_blight'],1
+early_blight_133,['early_blight'],early_blight,['early_blight'],1
+early_blight_138,['early_blight'],early_blight,['early_blight'],1
+early_blight_139,"['early_blight', 'rust']",early_blight,"['early_blight', 'rust']",1
+early_blight_144,"['early_blight', 'rust']",early_blight,"['early_blight', 'rust']",1
+early_blight_162,['early_blight'],early_blight,['early_blight'],1
+early_blight_169,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_170,['early_blight'],early_blight,['early_blight'],1
+early_blight_177,"['early_blight', 'leaf_curl', 'rust']",early_blight,"['early_blight', 'leaf_curl', 'rust']",1
+early_blight_182,"['early_blight', 'leaf_curl', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'leaf_curl', 'bacterial_spot', 'rust']",1
+early_blight_185,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_204,['early_blight'],early_blight,['early_blight'],1
+early_blight_215,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_223,"['early_blight', 'bacterial_spot']",early_blight,"['early_blight', 'bacterial_spot']",1
+early_blight_227,['early_blight'],early_blight,['early_blight'],1
+early_blight_237,"['early_blight', 'bacterial_spot']",early_blight,"['early_blight', 'bacterial_spot']",1
+early_blight_251,"['early_blight', 'rust']",early_blight,"['early_blight', 'rust']",1
+early_blight_255,"['early_blight', 'bacterial_spot']",early_blight,"['early_blight', 'bacterial_spot']",1
+early_blight_259,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_264,['early_blight'],early_blight,['early_blight'],1
+early_blight_265,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_266,"['early_blight', 'bacterial_spot']",early_blight,"['early_blight', 'bacterial_spot']",1
+early_blight_271,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_274,"['early_blight', 'bacterial_spot']",early_blight,"['early_blight', 'bacterial_spot']",1
+early_blight_278,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_284,['early_blight'],early_blight,['early_blight'],1
+early_blight_29,['early_blight'],early_blight,['early_blight'],1
+early_blight_292,['early_blight'],early_blight,['early_blight'],1
+early_blight_294,['early_blight'],early_blight,['early_blight'],1
+early_blight_295,['early_blight'],early_blight,['early_blight'],1
+early_blight_297,"['early_blight', 'bacterial_spot']",early_blight,"['early_blight', 'bacterial_spot']",1
+early_blight_299,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_30,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_315,['early_blight'],early_blight,['early_blight'],1
+early_blight_316,['early_blight'],early_blight,['early_blight'],1
+early_blight_323,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_327,['early_blight'],early_blight,['early_blight'],1
+early_blight_330,['early_blight'],early_blight,['early_blight'],1
+early_blight_336,['early_blight'],early_blight,['early_blight'],1
+early_blight_348,"['early_blight', 'bacterial_spot']",early_blight,"['early_blight', 'bacterial_spot']",1
+early_blight_350,['early_blight'],early_blight,['early_blight'],1
+early_blight_355,"['early_blight', 'rust']",early_blight,"['early_blight', 'rust']",1
+early_blight_360,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_368,['early_blight'],early_blight,['early_blight'],1
+early_blight_389,"['early_blight', 'rust']",early_blight,"['early_blight', 'rust']",1
+early_blight_394,"['early_blight', 'leaf_curl', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'leaf_curl', 'bacterial_spot', 'rust']",1
+early_blight_4,"['early_blight', 'bacterial_spot']",early_blight,"['early_blight', 'bacterial_spot']",1
+early_blight_407,['early_blight'],early_blight,['early_blight'],1
+early_blight_409,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_410,"['early_blight', 'bacterial_spot']",early_blight,"['early_blight', 'bacterial_spot']",1
+early_blight_411,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_414,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_421,['early_blight'],early_blight,['early_blight'],1
+early_blight_425,['early_blight'],early_blight,['early_blight'],1
+early_blight_427,"['early_blight', 'leaf_curl', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'leaf_curl', 'bacterial_spot', 'rust']",1
+early_blight_431,"['early_blight', 'rust']",early_blight,"['early_blight', 'rust']",1
+early_blight_433,"['early_blight', 'leaf_curl', 'rust']",early_blight,"['early_blight', 'leaf_curl', 'rust']",1
+early_blight_437,"['early_blight', 'leaf_curl', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'leaf_curl', 'bacterial_spot', 'rust']",1
+early_blight_441,"['early_blight', 'bacterial_spot']",early_blight,"['early_blight', 'bacterial_spot']",1
+early_blight_442,"['early_blight', 'rust']",early_blight,"['early_blight', 'rust']",1
+early_blight_448,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_450,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_451,"['early_blight', 'leaf_curl', 'rust']",early_blight,"['early_blight', 'leaf_curl', 'rust']",1
+early_blight_452,"['early_blight', 'rust']",early_blight,"['early_blight', 'rust']",1
+early_blight_455,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_457,['early_blight'],early_blight,['early_blight'],1
+early_blight_46,"['early_blight', 'bacterial_spot']",early_blight,"['early_blight', 'bacterial_spot']",1
+early_blight_465,['early_blight'],early_blight,['early_blight'],1
+early_blight_474,"['early_blight', 'bacterial_spot']",early_blight,"['early_blight', 'bacterial_spot']",1
+early_blight_475,['early_blight'],early_blight,['early_blight'],1
+early_blight_477,['early_blight'],early_blight,['early_blight'],1
+early_blight_478,['early_blight'],early_blight,['early_blight'],1
+early_blight_480,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_495,"['early_blight', 'leaf_curl', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'leaf_curl', 'bacterial_spot', 'rust']",1
+early_blight_497,"['early_blight', 'rust']",early_blight,"['early_blight', 'rust']",1
+early_blight_503,['early_blight'],early_blight,['early_blight'],1
+early_blight_515,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_530,['early_blight'],early_blight,['early_blight'],1
+early_blight_535,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_54,['early_blight'],early_blight,['early_blight'],1
+early_blight_544,"['early_blight', 'bacterial_spot']",early_blight,"['early_blight', 'bacterial_spot']",1
+early_blight_545,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_549,"['early_blight', 'bacterial_spot']",early_blight,"['early_blight', 'bacterial_spot']",1
+early_blight_556,"['early_blight', 'bacterial_spot']",early_blight,"['early_blight', 'bacterial_spot']",1
+early_blight_558,"['early_blight', 'bacterial_spot']",early_blight,"['early_blight', 'bacterial_spot']",1
+early_blight_56,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_560,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_561,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_564,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_566,"['early_blight', 'bacterial_spot']",early_blight,"['early_blight', 'bacterial_spot']",1
+early_blight_569,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_57,"['early_blight', 'rust']",early_blight,"['early_blight', 'rust']",1
+early_blight_578,['early_blight'],early_blight,['early_blight'],1
+early_blight_586,"['early_blight', 'bacterial_spot']",early_blight,"['early_blight', 'bacterial_spot']",1
+early_blight_590,['early_blight'],early_blight,['early_blight'],1
+early_blight_592,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_598,"['early_blight', 'rust']",early_blight,"['early_blight', 'rust']",1
+early_blight_603,"['early_blight', 'rust']",early_blight,"['early_blight', 'rust']",1
+early_blight_605,"['early_blight', 'rust']",early_blight,"['early_blight', 'rust']",1
+early_blight_61,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_611,"['early_blight', 'rust']",early_blight,"['early_blight', 'rust']",1
+early_blight_614,['early_blight'],early_blight,['early_blight'],1
+early_blight_615,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_619,['early_blight'],early_blight,['early_blight'],1
+early_blight_623,"['early_blight', 'bacterial_spot']",early_blight,"['early_blight', 'bacterial_spot']",1
+early_blight_625,"['early_blight', 'bacterial_spot']",early_blight,"['early_blight', 'bacterial_spot']",1
+early_blight_628,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_637,"['early_blight', 'leaf_curl', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'leaf_curl', 'bacterial_spot', 'rust']",1
+early_blight_64,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_644,['early_blight'],early_blight,['early_blight'],1
+early_blight_645,"['early_blight', 'bacterial_spot']",early_blight,"['early_blight', 'bacterial_spot']",1
+early_blight_647,"['early_blight', 'leaf_curl', 'rust']",early_blight,"['early_blight', 'leaf_curl', 'rust']",1
+early_blight_654,"['early_blight', 'leaf_curl', 'rust']",early_blight,"['early_blight', 'leaf_curl', 'rust']",1
+early_blight_660,"['early_blight', 'rust']",early_blight,"['early_blight', 'rust']",1
+early_blight_669,['early_blight'],early_blight,['early_blight'],1
+early_blight_680,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_681,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_69,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_692,"['early_blight', 'bacterial_spot']",early_blight,"['early_blight', 'bacterial_spot']",1
+early_blight_693,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_697,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_699,['early_blight'],early_blight,['early_blight'],1
+early_blight_7,"['early_blight', 'rust']",early_blight,"['early_blight', 'rust']",1
+early_blight_703,"['early_blight', 'leaf_curl', 'rust']",early_blight,"['early_blight', 'leaf_curl', 'rust']",1
+early_blight_710,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_717,"['early_blight', 'bacterial_spot']",early_blight,"['early_blight', 'bacterial_spot']",1
+early_blight_729,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_73,['early_blight'],early_blight,['early_blight'],1
+early_blight_735,"['early_blight', 'leaf_curl', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'leaf_curl', 'bacterial_spot', 'rust']",1
+early_blight_737,"['early_blight', 'rust']",early_blight,"['early_blight', 'rust']",1
+early_blight_74,['early_blight'],early_blight,['early_blight'],1
+early_blight_740,"['early_blight', 'rust']",early_blight,"['early_blight', 'rust']",1
+early_blight_744,"['early_blight', 'leaf_curl', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'leaf_curl', 'bacterial_spot', 'rust']",1
+early_blight_745,"['early_blight', 'leaf_curl', 'rust']",early_blight,"['early_blight', 'leaf_curl', 'rust']",1
+early_blight_752,"['early_blight', 'leaf_curl', 'rust']",early_blight,"['early_blight', 'leaf_curl', 'rust']",1
+early_blight_758,"['early_blight', 'rust']",early_blight,"['early_blight', 'rust']",1
+early_blight_759,"['early_blight', 'bacterial_spot']",early_blight,"['early_blight', 'bacterial_spot']",1
+early_blight_76,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_769,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_784,['early_blight'],early_blight,['early_blight'],1
+early_blight_786,['early_blight'],early_blight,['early_blight'],1
+early_blight_788,"['early_blight', 'leaf_curl', 'rust']",early_blight,"['early_blight', 'leaf_curl', 'rust']",1
+early_blight_789,"['early_blight', 'leaf_curl', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'leaf_curl', 'bacterial_spot', 'rust']",1
+early_blight_796,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_797,"['early_blight', 'leaf_curl', 'rust']",early_blight,"['early_blight', 'leaf_curl', 'rust']",1
+early_blight_799,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_805,['early_blight'],early_blight,['early_blight'],1
+early_blight_807,['early_blight'],early_blight,['early_blight'],1
+early_blight_808,"['early_blight', 'leaf_curl', 'rust']",early_blight,"['early_blight', 'leaf_curl', 'rust']",1
+early_blight_810,['early_blight'],early_blight,['early_blight'],1
+early_blight_823,['early_blight'],early_blight,['early_blight'],1
+early_blight_824,"['early_blight', 'bacterial_spot']",early_blight,"['early_blight', 'bacterial_spot']",1
+early_blight_829,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_830,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_833,"['early_blight', 'rust']",early_blight,"['early_blight', 'rust']",1
+early_blight_835,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_836,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_841,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_848,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_857,"['early_blight', 'leaf_curl', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'leaf_curl', 'bacterial_spot', 'rust']",1
+early_blight_858,"['early_blight', 'rust']",early_blight,"['early_blight', 'rust']",1
+early_blight_867,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_868,['early_blight'],early_blight,['early_blight'],1
+early_blight_87,['early_blight'],early_blight,['early_blight'],1
+early_blight_871,"['early_blight', 'bacterial_spot']",early_blight,"['early_blight', 'bacterial_spot']",1
+early_blight_872,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_874,"['early_blight', 'bacterial_spot']",early_blight,"['early_blight', 'bacterial_spot']",1
+early_blight_876,"['early_blight', 'bacterial_spot']",early_blight,"['early_blight', 'bacterial_spot']",1
+early_blight_879,['early_blight'],early_blight,['early_blight'],1
+early_blight_880,['early_blight'],early_blight,['early_blight'],1
+early_blight_881,"['early_blight', 'leaf_curl', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'leaf_curl', 'bacterial_spot', 'rust']",1
+early_blight_884,['early_blight'],early_blight,['early_blight'],1
+early_blight_885,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_896,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_900,['early_blight'],early_blight,['early_blight'],1
+early_blight_906,['early_blight'],early_blight,['early_blight'],1
+early_blight_910,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_916,"['early_blight', 'rust']",early_blight,"['early_blight', 'rust']",1
+early_blight_931,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_933,"['early_blight', 'bacterial_spot']",early_blight,"['early_blight', 'bacterial_spot']",1
+early_blight_935,"['early_blight', 'bacterial_spot']",early_blight,"['early_blight', 'bacterial_spot']",1
+early_blight_940,['early_blight'],early_blight,['early_blight'],1
+early_blight_948,"['early_blight', 'bacterial_spot']",early_blight,"['early_blight', 'bacterial_spot']",1
+early_blight_954,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_958,"['early_blight', 'rust']",early_blight,"['early_blight', 'rust']",1
+early_blight_959,['early_blight'],early_blight,['early_blight'],1
+early_blight_967,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_968,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_969,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_972,"['early_blight', 'rust']",early_blight,"['early_blight', 'rust']",1
+early_blight_974,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_976,"['early_blight', 'leaf_curl', 'rust']",early_blight,"['early_blight', 'leaf_curl', 'rust']",1
+early_blight_989,"['early_blight', 'rust']",early_blight,"['early_blight', 'rust']",1
+early_blight_990,"['early_blight', 'bacterial_spot']",early_blight,"['early_blight', 'bacterial_spot']",1
+early_blight_994,['early_blight'],early_blight,['early_blight'],1
+early_blight_997,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+early_blight_998,"['early_blight', 'bacterial_spot', 'rust']",early_blight,"['early_blight', 'bacterial_spot', 'rust']",1
+healthy_1,['healthy'],healthy,['healthy'],1
+healthy_10,['healthy'],healthy,['healthy'],1
+healthy_100,['healthy'],healthy,['healthy'],1
+healthy_1000,['healthy'],healthy,['healthy'],1
+healthy_101,['healthy'],healthy,['healthy'],1
+healthy_102,['healthy'],healthy,['healthy'],1
+healthy_103,['healthy'],healthy,['healthy'],1
+healthy_104,['healthy'],healthy,['healthy'],1
+healthy_105,['healthy'],healthy,['healthy'],1
+healthy_107,['healthy'],healthy,['healthy'],1
+healthy_108,['healthy'],healthy,['healthy'],1
+healthy_11,['healthy'],healthy,['healthy'],1
+healthy_110,['healthy'],healthy,['healthy'],1
+healthy_111,['healthy'],healthy,['healthy'],1
+healthy_112,['healthy'],healthy,['healthy'],1
+healthy_113,['healthy'],healthy,['healthy'],1
+healthy_114,['healthy'],healthy,['healthy'],1
+healthy_115,['healthy'],healthy,['healthy'],1
+healthy_116,['healthy'],healthy,['healthy'],1
+healthy_117,['healthy'],healthy,['healthy'],1
+healthy_118,['healthy'],healthy,['healthy'],1
+healthy_119,['healthy'],healthy,['healthy'],1
+healthy_120,['healthy'],healthy,['healthy'],1
+healthy_121,['healthy'],healthy,['healthy'],1
+healthy_122,['healthy'],healthy,['healthy'],1
+healthy_123,['healthy'],healthy,['healthy'],1
+healthy_124,['healthy'],healthy,['healthy'],1
+healthy_125,['healthy'],healthy,['healthy'],1
+healthy_126,['healthy'],healthy,['healthy'],1
+healthy_127,['healthy'],healthy,['healthy'],1
+healthy_128,['healthy'],healthy,['healthy'],1
+healthy_129,['healthy'],healthy,['healthy'],1
+healthy_13,['healthy'],healthy,['healthy'],1
+healthy_130,['healthy'],healthy,['healthy'],1
+healthy_131,['healthy'],healthy,['healthy'],1
+healthy_132,['healthy'],healthy,['healthy'],1
+healthy_133,['healthy'],healthy,['healthy'],1
+healthy_134,['healthy'],healthy,['healthy'],1
+healthy_135,['healthy'],healthy,['healthy'],1
+healthy_136,['healthy'],healthy,['healthy'],1
+healthy_137,['healthy'],healthy,['healthy'],1
+healthy_138,['healthy'],healthy,['healthy'],1
+healthy_139,['healthy'],healthy,['healthy'],1
+healthy_14,['healthy'],healthy,['healthy'],1
+healthy_140,['healthy'],healthy,['healthy'],1
+healthy_141,['healthy'],healthy,['healthy'],1
+healthy_142,['healthy'],healthy,['healthy'],1
+healthy_143,['healthy'],healthy,['healthy'],1
+healthy_144,['healthy'],healthy,['healthy'],1
+healthy_145,['healthy'],healthy,['healthy'],1
+healthy_146,['healthy'],healthy,['healthy'],1
+healthy_147,['healthy'],healthy,['healthy'],1
+healthy_148,['healthy'],healthy,['healthy'],1
+healthy_149,['healthy'],healthy,['healthy'],1
+healthy_15,['healthy'],healthy,['healthy'],1
+healthy_150,['healthy'],healthy,['healthy'],1
+healthy_151,['healthy'],healthy,['healthy'],1
+healthy_152,['healthy'],healthy,['healthy'],1
+healthy_153,['healthy'],healthy,['healthy'],1
+healthy_154,['healthy'],healthy,['healthy'],1
+healthy_155,['healthy'],healthy,['healthy'],1
+healthy_156,['healthy'],healthy,['healthy'],1
+healthy_157,['healthy'],healthy,['healthy'],1
+healthy_158,['healthy'],healthy,['healthy'],1
+healthy_159,['healthy'],healthy,['healthy'],1
+healthy_16,['healthy'],healthy,['healthy'],1
+healthy_160,['healthy'],healthy,['healthy'],1
+healthy_161,['healthy'],healthy,['healthy'],1
+healthy_162,['healthy'],healthy,['healthy'],1
+healthy_163,['healthy'],healthy,['healthy'],1
+healthy_164,['healthy'],healthy,['healthy'],1
+healthy_165,['healthy'],healthy,['healthy'],1
+healthy_166,['healthy'],healthy,['healthy'],1
+healthy_169,['healthy'],healthy,['healthy'],1
+healthy_17,['healthy'],healthy,['healthy'],1
+healthy_170,['healthy'],healthy,['healthy'],1
+healthy_172,['healthy'],healthy,['healthy'],1
+healthy_173,['healthy'],healthy,['healthy'],1
+healthy_174,['healthy'],healthy,['healthy'],1
+healthy_175,['healthy'],healthy,['healthy'],1
+healthy_176,['healthy'],healthy,['healthy'],1
+healthy_177,['healthy'],healthy,['healthy'],1
+healthy_178,['healthy'],healthy,['healthy'],1
+healthy_179,['healthy'],healthy,['healthy'],1
+healthy_18,['healthy'],healthy,['healthy'],1
+healthy_180,['healthy'],healthy,['healthy'],1
+healthy_182,['healthy'],healthy,['healthy'],1
+healthy_183,['healthy'],healthy,['healthy'],1
+healthy_184,['healthy'],healthy,['healthy'],1
+healthy_185,['healthy'],healthy,['healthy'],1
+healthy_186,['healthy'],healthy,['healthy'],1
+healthy_187,['healthy'],healthy,['healthy'],1
+healthy_189,['healthy'],healthy,['healthy'],1
+healthy_19,['healthy'],healthy,['healthy'],1
+healthy_190,['healthy'],healthy,['healthy'],1
+healthy_191,['healthy'],healthy,['healthy'],1
+healthy_192,['healthy'],healthy,['healthy'],1
+healthy_194,['healthy'],healthy,['healthy'],1
+healthy_195,['healthy'],healthy,['healthy'],1
+healthy_196,['healthy'],healthy,['healthy'],1
+healthy_197,['healthy'],healthy,['healthy'],1
+healthy_198,['healthy'],healthy,['healthy'],1
+healthy_199,['healthy'],healthy,['healthy'],1
+healthy_2,['healthy'],healthy,['healthy'],1
+healthy_20,['healthy'],healthy,['healthy'],1
+healthy_200,['healthy'],healthy,['healthy'],1
+healthy_201,['healthy'],healthy,['healthy'],1
+healthy_202,['healthy'],healthy,['healthy'],1
+healthy_203,['healthy'],healthy,['healthy'],1
+healthy_204,['healthy'],healthy,['healthy'],1
+healthy_205,['healthy'],healthy,['healthy'],1
+healthy_206,['healthy'],healthy,['healthy'],1
+healthy_207,['healthy'],healthy,['healthy'],1
+healthy_208,['healthy'],healthy,['healthy'],1
+healthy_209,['healthy'],healthy,['healthy'],1
+healthy_21,['healthy'],healthy,['healthy'],1
+healthy_210,['healthy'],healthy,['healthy'],1
+healthy_211,['healthy'],healthy,['healthy'],1
+healthy_212,['healthy'],healthy,['healthy'],1
+healthy_213,['healthy'],healthy,['healthy'],1
+healthy_214,['healthy'],healthy,['healthy'],1
+healthy_215,['healthy'],healthy,['healthy'],1
+healthy_216,['healthy'],healthy,['healthy'],1
+healthy_217,['healthy'],healthy,['healthy'],1
+healthy_218,['healthy'],healthy,['healthy'],1
+healthy_219,['healthy'],healthy,['healthy'],1
+healthy_22,['healthy'],healthy,['healthy'],1
+healthy_220,['healthy'],healthy,['healthy'],1
+healthy_222,['healthy'],healthy,['healthy'],1
+healthy_224,['healthy'],healthy,['healthy'],1
+healthy_225,['healthy'],healthy,['healthy'],1
+healthy_226,['healthy'],healthy,['healthy'],1
+healthy_227,['healthy'],healthy,['healthy'],1
+healthy_228,['healthy'],healthy,['healthy'],1
+healthy_229,['healthy'],healthy,['healthy'],1
+healthy_23,['healthy'],healthy,['healthy'],1
+healthy_231,['healthy'],healthy,['healthy'],1
+healthy_232,['healthy'],healthy,['healthy'],1
+healthy_233,['healthy'],healthy,['healthy'],1
+healthy_234,['healthy'],healthy,['healthy'],1
+healthy_236,['healthy'],healthy,['healthy'],1
+healthy_237,['healthy'],healthy,['healthy'],1
+healthy_238,['healthy'],healthy,['healthy'],1
+healthy_239,['healthy'],healthy,['healthy'],1
+healthy_24,['healthy'],healthy,['healthy'],1
+healthy_240,['healthy'],healthy,['healthy'],1
+healthy_241,['healthy'],healthy,['healthy'],1
+healthy_242,['healthy'],healthy,['healthy'],1
+healthy_243,['healthy'],healthy,['healthy'],1
+healthy_244,['healthy'],healthy,['healthy'],1
+healthy_245,['healthy'],healthy,['healthy'],1
+healthy_246,['healthy'],healthy,['healthy'],1
+healthy_247,['healthy'],healthy,['healthy'],1
+healthy_248,['healthy'],healthy,['healthy'],1
+healthy_249,['healthy'],healthy,['healthy'],1
+healthy_25,['healthy'],healthy,['healthy'],1
+healthy_250,['healthy'],healthy,['healthy'],1
+healthy_251,['healthy'],healthy,['healthy'],1
+healthy_252,['healthy'],healthy,['healthy'],1
+healthy_253,['healthy'],healthy,['healthy'],1
+healthy_254,['healthy'],healthy,['healthy'],1
+healthy_255,['healthy'],healthy,['healthy'],1
+healthy_256,['healthy'],healthy,['healthy'],1
+healthy_257,['healthy'],healthy,['healthy'],1
+healthy_258,['healthy'],healthy,['healthy'],1
+healthy_259,['healthy'],healthy,['healthy'],1
+healthy_26,['healthy'],healthy,['healthy'],1
+healthy_260,['healthy'],healthy,['healthy'],1
+healthy_261,['healthy'],healthy,['healthy'],1
+healthy_262,['healthy'],healthy,['healthy'],1
+healthy_263,['healthy'],healthy,['healthy'],1
+healthy_264,['healthy'],healthy,['healthy'],1
+healthy_265,['healthy'],healthy,['healthy'],1
+healthy_266,['healthy'],healthy,['healthy'],1
+healthy_267,['healthy'],healthy,['healthy'],1
+healthy_268,['healthy'],healthy,['healthy'],1
+healthy_269,['healthy'],healthy,['healthy'],1
+healthy_27,['healthy'],healthy,['healthy'],1
+healthy_270,['healthy'],healthy,['healthy'],1
+healthy_271,['healthy'],healthy,['healthy'],1
+healthy_272,['healthy'],healthy,['healthy'],1
+healthy_273,['healthy'],healthy,['healthy'],1
+healthy_274,['healthy'],healthy,['healthy'],1
+healthy_275,['healthy'],healthy,['healthy'],1
+healthy_276,['healthy'],healthy,['healthy'],1
+healthy_277,['healthy'],healthy,['healthy'],1
+healthy_278,['healthy'],healthy,['healthy'],1
+healthy_279,['healthy'],healthy,['healthy'],1
+healthy_28,['healthy'],healthy,['healthy'],1
+healthy_280,['healthy'],healthy,['healthy'],1
+healthy_282,['healthy'],healthy,['healthy'],1
+healthy_283,['healthy'],healthy,['healthy'],1
+healthy_284,['healthy'],healthy,['healthy'],1
+healthy_285,['healthy'],healthy,['healthy'],1
+healthy_286,['healthy'],healthy,['healthy'],1
+healthy_287,['healthy'],healthy,['healthy'],1
+healthy_288,['healthy'],healthy,['healthy'],1
+healthy_289,['healthy'],healthy,['healthy'],1
+healthy_29,['healthy'],healthy,['healthy'],1
+healthy_290,['healthy'],healthy,['healthy'],1
+healthy_291,['healthy'],healthy,['healthy'],1
+healthy_292,['healthy'],healthy,['healthy'],1
+healthy_293,['healthy'],healthy,['healthy'],1
+healthy_294,['healthy'],healthy,['healthy'],1
+healthy_295,['healthy'],healthy,['healthy'],1
+healthy_296,['healthy'],healthy,['healthy'],1
+healthy_297,['healthy'],healthy,['healthy'],1
+healthy_298,['healthy'],healthy,['healthy'],1
+healthy_299,['healthy'],healthy,['healthy'],1
+healthy_3,['healthy'],healthy,['healthy'],1
+healthy_30,['healthy'],healthy,['healthy'],1
+healthy_300,['healthy'],healthy,['healthy'],1
+healthy_301,['healthy'],healthy,['healthy'],1
+healthy_302,['healthy'],healthy,['healthy'],1
+healthy_303,['healthy'],healthy,['healthy'],1
+healthy_304,['healthy'],healthy,['healthy'],1
+healthy_305,['healthy'],healthy,['healthy'],1
+healthy_306,['healthy'],healthy,['healthy'],1
+healthy_307,['healthy'],healthy,['healthy'],1
+healthy_309,['healthy'],healthy,['healthy'],1
+healthy_31,['healthy'],healthy,['healthy'],1
+healthy_310,['healthy'],healthy,['healthy'],1
+healthy_311,['healthy'],healthy,['healthy'],1
+healthy_312,['healthy'],healthy,['healthy'],1
+healthy_313,['healthy'],healthy,['healthy'],1
+healthy_314,['healthy'],healthy,['healthy'],1
+healthy_315,['healthy'],healthy,['healthy'],1
+healthy_316,['healthy'],healthy,['healthy'],1
+healthy_317,['healthy'],healthy,['healthy'],1
+healthy_318,['healthy'],healthy,['healthy'],1
+healthy_319,['healthy'],healthy,['healthy'],1
+healthy_32,['healthy'],healthy,['healthy'],1
+healthy_320,['healthy'],healthy,['healthy'],1
+healthy_321,['healthy'],healthy,['healthy'],1
+healthy_322,['healthy'],healthy,['healthy'],1
+healthy_323,['healthy'],healthy,['healthy'],1
+healthy_324,['healthy'],healthy,['healthy'],1
+healthy_325,['healthy'],healthy,['healthy'],1
+healthy_326,['healthy'],healthy,['healthy'],1
+healthy_327,['healthy'],healthy,['healthy'],1
+healthy_328,['healthy'],healthy,['healthy'],1
+healthy_329,['healthy'],healthy,['healthy'],1
+healthy_33,['healthy'],healthy,['healthy'],1
+healthy_330,['healthy'],healthy,['healthy'],1
+healthy_332,['healthy'],healthy,['healthy'],1
+healthy_333,['healthy'],healthy,['healthy'],1
+healthy_334,['healthy'],healthy,['healthy'],1
+healthy_335,['healthy'],healthy,['healthy'],1
+healthy_336,['healthy'],healthy,['healthy'],1
+healthy_338,['healthy'],healthy,['healthy'],1
+healthy_339,['healthy'],healthy,['healthy'],1
+healthy_34,['healthy'],healthy,['healthy'],1
+healthy_340,['healthy'],healthy,['healthy'],1
+healthy_341,['healthy'],healthy,['healthy'],1
+healthy_342,['healthy'],healthy,['healthy'],1
+healthy_343,['healthy'],healthy,['healthy'],1
+healthy_344,['healthy'],healthy,['healthy'],1
+healthy_345,['healthy'],healthy,['healthy'],1
+healthy_346,['healthy'],healthy,['healthy'],1
+healthy_347,['healthy'],healthy,['healthy'],1
+healthy_348,['healthy'],healthy,['healthy'],1
+healthy_349,['healthy'],healthy,['healthy'],1
+healthy_350,['healthy'],healthy,['healthy'],1
+healthy_351,['healthy'],healthy,['healthy'],1
+healthy_352,['healthy'],healthy,['healthy'],1
+healthy_353,['healthy'],healthy,['healthy'],1
+healthy_354,['healthy'],healthy,['healthy'],1
+healthy_355,['healthy'],healthy,['healthy'],1
+healthy_356,['healthy'],healthy,['healthy'],1
+healthy_357,['healthy'],healthy,['healthy'],1
+healthy_358,['healthy'],healthy,['healthy'],1
+healthy_359,['healthy'],healthy,['healthy'],1
+healthy_36,['healthy'],healthy,['healthy'],1
+healthy_360,['healthy'],healthy,['healthy'],1
+healthy_361,['healthy'],healthy,['healthy'],1
+healthy_362,['healthy'],healthy,['healthy'],1
+healthy_363,['healthy'],healthy,['healthy'],1
+healthy_364,['healthy'],healthy,['healthy'],1
+healthy_365,['healthy'],healthy,['healthy'],1
+healthy_366,['healthy'],healthy,['healthy'],1
+healthy_367,['healthy'],healthy,['healthy'],1
+healthy_368,['healthy'],healthy,['healthy'],1
+healthy_369,['healthy'],healthy,['healthy'],1
+healthy_37,['healthy'],healthy,['healthy'],1
+healthy_370,['healthy'],healthy,['healthy'],1
+healthy_371,['healthy'],healthy,['healthy'],1
+healthy_372,['healthy'],healthy,['healthy'],1
+healthy_373,['healthy'],healthy,['healthy'],1
+healthy_374,['healthy'],healthy,['healthy'],1
+healthy_375,['healthy'],healthy,['healthy'],1
+healthy_376,['healthy'],healthy,['healthy'],1
+healthy_377,['healthy'],healthy,['healthy'],1
+healthy_378,['healthy'],healthy,['healthy'],1
+healthy_379,['healthy'],healthy,['healthy'],1
+healthy_38,['healthy'],healthy,['healthy'],1
+healthy_380,['healthy'],healthy,['healthy'],1
+healthy_381,['healthy'],healthy,['healthy'],1
+healthy_382,['healthy'],healthy,['healthy'],1
+healthy_383,['healthy'],healthy,['healthy'],1
+healthy_384,['healthy'],healthy,['healthy'],1
+healthy_385,['healthy'],healthy,['healthy'],1
+healthy_386,['healthy'],healthy,['healthy'],1
+healthy_387,['healthy'],healthy,['healthy'],1
+healthy_388,['healthy'],healthy,['healthy'],1
+healthy_389,['healthy'],healthy,['healthy'],1
+healthy_39,['healthy'],healthy,['healthy'],1
+healthy_390,['healthy'],healthy,['healthy'],1
+healthy_391,['healthy'],healthy,['healthy'],1
+healthy_392,['healthy'],healthy,['healthy'],1
+healthy_393,['healthy'],healthy,['healthy'],1
+healthy_394,['healthy'],healthy,['healthy'],1
+healthy_395,['healthy'],healthy,['healthy'],1
+healthy_396,['healthy'],healthy,['healthy'],1
+healthy_397,['healthy'],healthy,['healthy'],1
+healthy_398,['healthy'],healthy,['healthy'],1
+healthy_399,['healthy'],healthy,['healthy'],1
+healthy_4,['healthy'],healthy,['healthy'],1
+healthy_400,['healthy'],healthy,['healthy'],1
+healthy_401,['healthy'],healthy,['healthy'],1
+healthy_402,['healthy'],healthy,['healthy'],1
+healthy_403,['healthy'],healthy,['healthy'],1
+healthy_405,['healthy'],healthy,['healthy'],1
+healthy_406,['healthy'],healthy,['healthy'],1
+healthy_407,['healthy'],healthy,['healthy'],1
+healthy_408,['healthy'],healthy,['healthy'],1
+healthy_409,['healthy'],healthy,['healthy'],1
+healthy_41,['healthy'],healthy,['healthy'],1
+healthy_410,['healthy'],healthy,['healthy'],1
+healthy_411,['healthy'],healthy,['healthy'],1
+healthy_413,['healthy'],healthy,['healthy'],1
+healthy_414,['healthy'],healthy,['healthy'],1
+healthy_415,['healthy'],healthy,['healthy'],1
+healthy_416,['healthy'],healthy,['healthy'],1
+healthy_417,['healthy'],healthy,['healthy'],1
+healthy_418,['healthy'],healthy,['healthy'],1
+healthy_419,['healthy'],healthy,['healthy'],1
+healthy_420,['healthy'],healthy,['healthy'],1
+healthy_421,['healthy'],healthy,['healthy'],1
+healthy_422,['healthy'],healthy,['healthy'],1
+healthy_423,['healthy'],healthy,['healthy'],1
+healthy_425,['healthy'],healthy,['healthy'],1
+healthy_426,['healthy'],healthy,['healthy'],1
+healthy_427,['healthy'],healthy,['healthy'],1
+healthy_428,['healthy'],healthy,['healthy'],1
+healthy_429,['healthy'],healthy,['healthy'],1
+healthy_43,['healthy'],healthy,['healthy'],1
+healthy_430,['healthy'],healthy,['healthy'],1
+healthy_431,['healthy'],healthy,['healthy'],1
+healthy_432,['healthy'],healthy,['healthy'],1
+healthy_433,['healthy'],healthy,['healthy'],1
+healthy_434,['healthy'],healthy,['healthy'],1
+healthy_436,['healthy'],healthy,['healthy'],1
+healthy_438,['healthy'],healthy,['healthy'],1
+healthy_439,['healthy'],healthy,['healthy'],1
+healthy_44,['healthy'],healthy,['healthy'],1
+healthy_440,['healthy'],healthy,['healthy'],1
+healthy_441,['healthy'],healthy,['healthy'],1
+healthy_443,['healthy'],healthy,['healthy'],1
+healthy_444,['healthy'],healthy,['healthy'],1
+healthy_445,['healthy'],healthy,['healthy'],1
+healthy_446,['healthy'],healthy,['healthy'],1
+healthy_447,['healthy'],healthy,['healthy'],1
+healthy_448,['healthy'],healthy,['healthy'],1
+healthy_449,['healthy'],healthy,['healthy'],1
+healthy_45,['healthy'],healthy,['healthy'],1
+healthy_450,['healthy'],healthy,['healthy'],1
+healthy_451,['healthy'],healthy,['healthy'],1
+healthy_452,['healthy'],healthy,['healthy'],1
+healthy_453,['healthy'],healthy,['healthy'],1
+healthy_454,['healthy'],healthy,['healthy'],1
+healthy_455,['healthy'],healthy,['healthy'],1
+healthy_456,['healthy'],healthy,['healthy'],1
+healthy_457,['healthy'],healthy,['healthy'],1
+healthy_458,['healthy'],healthy,['healthy'],1
+healthy_459,['healthy'],healthy,['healthy'],1
+healthy_46,['healthy'],healthy,['healthy'],1
+healthy_460,['healthy'],healthy,['healthy'],1
+healthy_461,['healthy'],healthy,['healthy'],1
+healthy_462,['healthy'],healthy,['healthy'],1
+healthy_463,['healthy'],healthy,['healthy'],1
+healthy_464,['healthy'],healthy,['healthy'],1
+healthy_465,['healthy'],healthy,['healthy'],1
+healthy_466,['healthy'],healthy,['healthy'],1
+healthy_467,['healthy'],healthy,['healthy'],1
+healthy_468,['healthy'],healthy,['healthy'],1
+healthy_469,['healthy'],healthy,['healthy'],1
+healthy_47,['healthy'],healthy,['healthy'],1
+healthy_470,['healthy'],healthy,['healthy'],1
+healthy_471,['healthy'],healthy,['healthy'],1
+healthy_473,['healthy'],healthy,['healthy'],1
+healthy_474,['healthy'],healthy,['healthy'],1
+healthy_475,['healthy'],healthy,['healthy'],1
+healthy_476,['healthy'],healthy,['healthy'],1
+healthy_477,['healthy'],healthy,['healthy'],1
+healthy_478,['healthy'],healthy,['healthy'],1
+healthy_479,['healthy'],healthy,['healthy'],1
+healthy_48,['healthy'],healthy,['healthy'],1
+healthy_480,['healthy'],healthy,['healthy'],1
+healthy_481,['healthy'],healthy,['healthy'],1
+healthy_482,['healthy'],healthy,['healthy'],1
+healthy_483,['healthy'],healthy,['healthy'],1
+healthy_484,['healthy'],healthy,['healthy'],1
+healthy_485,['healthy'],healthy,['healthy'],1
+healthy_486,['healthy'],healthy,['healthy'],1
+healthy_487,['healthy'],healthy,['healthy'],1
+healthy_488,['healthy'],healthy,['healthy'],1
+healthy_489,['healthy'],healthy,['healthy'],1
+healthy_49,['healthy'],healthy,['healthy'],1
+healthy_490,['healthy'],healthy,['healthy'],1
+healthy_491,['healthy'],healthy,['healthy'],1
+healthy_492,['healthy'],healthy,['healthy'],1
+healthy_493,['healthy'],healthy,['healthy'],1
+healthy_494,['healthy'],healthy,['healthy'],1
+healthy_495,['healthy'],healthy,['healthy'],1
+healthy_497,['healthy'],healthy,['healthy'],1
+healthy_498,['healthy'],healthy,['healthy'],1
+healthy_499,['healthy'],healthy,['healthy'],1
+healthy_5,['healthy'],healthy,['healthy'],1
+healthy_50,['healthy'],healthy,['healthy'],1
+healthy_500,['healthy'],healthy,['healthy'],1
+healthy_501,['healthy'],healthy,['healthy'],1
+healthy_503,['healthy'],healthy,['healthy'],1
+healthy_504,['healthy'],healthy,['healthy'],1
+healthy_505,['healthy'],healthy,['healthy'],1
+healthy_506,['healthy'],healthy,['healthy'],1
+healthy_507,['healthy'],healthy,['healthy'],1
+healthy_508,['healthy'],healthy,['healthy'],1
+healthy_509,['healthy'],healthy,['healthy'],1
+healthy_51,['healthy'],healthy,['healthy'],1
+healthy_510,['healthy'],healthy,['healthy'],1
+healthy_511,['healthy'],healthy,['healthy'],1
+healthy_512,['healthy'],healthy,['healthy'],1
+healthy_513,['healthy'],healthy,['healthy'],1
+healthy_514,['healthy'],healthy,['healthy'],1
+healthy_516,['healthy'],healthy,['healthy'],1
+healthy_517,['healthy'],healthy,['healthy'],1
+healthy_518,['healthy'],healthy,['healthy'],1
+healthy_519,['healthy'],healthy,['healthy'],1
+healthy_52,['healthy'],healthy,['healthy'],1
+healthy_520,['healthy'],healthy,['healthy'],1
+healthy_521,['healthy'],healthy,['healthy'],1
+healthy_522,['healthy'],healthy,['healthy'],1
+healthy_523,['healthy'],healthy,['healthy'],1
+healthy_524,['healthy'],healthy,['healthy'],1
+healthy_525,['healthy'],healthy,['healthy'],1
+healthy_526,['healthy'],healthy,['healthy'],1
+healthy_527,['healthy'],healthy,['healthy'],1
+healthy_528,['healthy'],healthy,['healthy'],1
+healthy_529,['healthy'],healthy,['healthy'],1
+healthy_53,['healthy'],healthy,['healthy'],1
+healthy_530,['healthy'],healthy,['healthy'],1
+healthy_531,['healthy'],healthy,['healthy'],1
+healthy_532,['healthy'],healthy,['healthy'],1
+healthy_533,['healthy'],healthy,['healthy'],1
+healthy_534,['healthy'],healthy,['healthy'],1
+healthy_535,['healthy'],healthy,['healthy'],1
+healthy_536,['healthy'],healthy,['healthy'],1
+healthy_537,['healthy'],healthy,['healthy'],1
+healthy_539,['healthy'],healthy,['healthy'],1
+healthy_54,['healthy'],healthy,['healthy'],1
+healthy_540,['healthy'],healthy,['healthy'],1
+healthy_541,['healthy'],healthy,['healthy'],1
+healthy_542,['healthy'],healthy,['healthy'],1
+healthy_543,['healthy'],healthy,['healthy'],1
+healthy_545,['healthy'],healthy,['healthy'],1
+healthy_546,['healthy'],healthy,['healthy'],1
+healthy_547,['healthy'],healthy,['healthy'],1
+healthy_548,['healthy'],healthy,['healthy'],1
+healthy_549,['healthy'],healthy,['healthy'],1
+healthy_55,['healthy'],healthy,['healthy'],1
+healthy_550,['healthy'],healthy,['healthy'],1
+healthy_551,['healthy'],healthy,['healthy'],1
+healthy_552,['healthy'],healthy,['healthy'],1
+healthy_553,['healthy'],healthy,['healthy'],1
+healthy_554,['healthy'],healthy,['healthy'],1
+healthy_555,['healthy'],healthy,['healthy'],1
+healthy_556,['healthy'],healthy,['healthy'],1
+healthy_557,['healthy'],healthy,['healthy'],1
+healthy_558,['healthy'],healthy,['healthy'],1
+healthy_559,['healthy'],healthy,['healthy'],1
+healthy_56,['healthy'],healthy,['healthy'],1
+healthy_560,['healthy'],healthy,['healthy'],1
+healthy_561,['healthy'],healthy,['healthy'],1
+healthy_562,['healthy'],healthy,['healthy'],1
+healthy_563,['healthy'],healthy,['healthy'],1
+healthy_564,['healthy'],healthy,['healthy'],1
+healthy_565,['healthy'],healthy,['healthy'],1
+healthy_566,['healthy'],healthy,['healthy'],1
+healthy_567,['healthy'],healthy,['healthy'],1
+healthy_568,['healthy'],healthy,['healthy'],1
+healthy_569,['healthy'],healthy,['healthy'],1
+healthy_57,['healthy'],healthy,['healthy'],1
+healthy_570,['healthy'],healthy,['healthy'],1
+healthy_571,['healthy'],healthy,['healthy'],1
+healthy_572,['healthy'],healthy,['healthy'],1
+healthy_573,['healthy'],healthy,['healthy'],1
+healthy_574,['healthy'],healthy,['healthy'],1
+healthy_575,['healthy'],healthy,['healthy'],1
+healthy_576,['healthy'],healthy,['healthy'],1
+healthy_577,['healthy'],healthy,['healthy'],1
+healthy_578,['healthy'],healthy,['healthy'],1
+healthy_579,['healthy'],healthy,['healthy'],1
+healthy_58,['healthy'],healthy,['healthy'],1
+healthy_580,['healthy'],healthy,['healthy'],1
+healthy_582,['healthy'],healthy,['healthy'],1
+healthy_583,['healthy'],healthy,['healthy'],1
+healthy_584,['healthy'],healthy,['healthy'],1
+healthy_585,['healthy'],healthy,['healthy'],1
+healthy_586,['healthy'],healthy,['healthy'],1
+healthy_588,['healthy'],healthy,['healthy'],1
+healthy_589,['healthy'],healthy,['healthy'],1
+healthy_59,['healthy'],healthy,['healthy'],1
+healthy_590,['healthy'],healthy,['healthy'],1
+healthy_591,['healthy'],healthy,['healthy'],1
+healthy_592,['healthy'],healthy,['healthy'],1
+healthy_593,['healthy'],healthy,['healthy'],1
+healthy_594,['healthy'],healthy,['healthy'],1
+healthy_595,['healthy'],healthy,['healthy'],1
+healthy_596,['healthy'],healthy,['healthy'],1
+healthy_597,['healthy'],healthy,['healthy'],1
+healthy_598,['healthy'],healthy,['healthy'],1
+healthy_599,['healthy'],healthy,['healthy'],1
+healthy_6,['healthy'],healthy,['healthy'],1
+healthy_600,['healthy'],healthy,['healthy'],1
+healthy_601,['healthy'],healthy,['healthy'],1
+healthy_602,['healthy'],healthy,['healthy'],1
+healthy_603,['healthy'],healthy,['healthy'],1
+healthy_604,['healthy'],healthy,['healthy'],1
+healthy_605,['healthy'],healthy,['healthy'],1
+healthy_606,['healthy'],healthy,['healthy'],1
+healthy_607,['healthy'],healthy,['healthy'],1
+healthy_608,['healthy'],healthy,['healthy'],1
+healthy_609,['healthy'],healthy,['healthy'],1
+healthy_61,['healthy'],healthy,['healthy'],1
+healthy_610,['healthy'],healthy,['healthy'],1
+healthy_612,['healthy'],healthy,['healthy'],1
+healthy_614,['healthy'],healthy,['healthy'],1
+healthy_615,['healthy'],healthy,['healthy'],1
+healthy_617,['healthy'],healthy,['healthy'],1
+healthy_618,['healthy'],healthy,['healthy'],1
+healthy_619,['healthy'],healthy,['healthy'],1
+healthy_62,['healthy'],healthy,['healthy'],1
+healthy_620,['healthy'],healthy,['healthy'],1
+healthy_621,['healthy'],healthy,['healthy'],1
+healthy_622,['healthy'],healthy,['healthy'],1
+healthy_623,['healthy'],healthy,['healthy'],1
+healthy_624,['healthy'],healthy,['healthy'],1
+healthy_625,['healthy'],healthy,['healthy'],1
+healthy_626,['healthy'],healthy,['healthy'],1
+healthy_627,['healthy'],healthy,['healthy'],1
+healthy_628,['healthy'],healthy,['healthy'],1
+healthy_629,['healthy'],healthy,['healthy'],1
+healthy_63,['healthy'],healthy,['healthy'],1
+healthy_630,['healthy'],healthy,['healthy'],1
+healthy_631,['healthy'],healthy,['healthy'],1
+healthy_632,['healthy'],healthy,['healthy'],1
+healthy_633,['healthy'],healthy,['healthy'],1
+healthy_634,['healthy'],healthy,['healthy'],1
+healthy_635,['healthy'],healthy,['healthy'],1
+healthy_636,['healthy'],healthy,['healthy'],1
+healthy_637,['healthy'],healthy,['healthy'],1
+healthy_638,['healthy'],healthy,['healthy'],1
+healthy_639,['healthy'],healthy,['healthy'],1
+healthy_640,['healthy'],healthy,['healthy'],1
+healthy_641,['healthy'],healthy,['healthy'],1
+healthy_643,['healthy'],healthy,['healthy'],1
+healthy_644,['healthy'],healthy,['healthy'],1
+healthy_645,['healthy'],healthy,['healthy'],1
+healthy_647,['healthy'],healthy,['healthy'],1
+healthy_648,['healthy'],healthy,['healthy'],1
+healthy_649,['healthy'],healthy,['healthy'],1
+healthy_65,['healthy'],healthy,['healthy'],1
+healthy_650,['healthy'],healthy,['healthy'],1
+healthy_651,['healthy'],healthy,['healthy'],1
+healthy_652,['healthy'],healthy,['healthy'],1
+healthy_653,['healthy'],healthy,['healthy'],1
+healthy_654,['healthy'],healthy,['healthy'],1
+healthy_656,['healthy'],healthy,['healthy'],1
+healthy_657,['healthy'],healthy,['healthy'],1
+healthy_658,['healthy'],healthy,['healthy'],1
+healthy_659,['healthy'],healthy,['healthy'],1
+healthy_66,['healthy'],healthy,['healthy'],1
+healthy_660,['healthy'],healthy,['healthy'],1
+healthy_662,['healthy'],healthy,['healthy'],1
+healthy_663,['healthy'],healthy,['healthy'],1
+healthy_664,['healthy'],healthy,['healthy'],1
+healthy_665,['healthy'],healthy,['healthy'],1
+healthy_666,['healthy'],healthy,['healthy'],1
+healthy_667,['healthy'],healthy,['healthy'],1
+healthy_668,['healthy'],healthy,['healthy'],1
+healthy_669,['healthy'],healthy,['healthy'],1
+healthy_67,['healthy'],healthy,['healthy'],1
+healthy_671,['healthy'],healthy,['healthy'],1
+healthy_672,['healthy'],healthy,['healthy'],1
+healthy_674,['healthy'],healthy,['healthy'],1
+healthy_675,['healthy'],healthy,['healthy'],1
+healthy_676,['healthy'],healthy,['healthy'],1
+healthy_677,['healthy'],healthy,['healthy'],1
+healthy_678,['healthy'],healthy,['healthy'],1
+healthy_679,['healthy'],healthy,['healthy'],1
+healthy_68,['healthy'],healthy,['healthy'],1
+healthy_680,['healthy'],healthy,['healthy'],1
+healthy_681,['healthy'],healthy,['healthy'],1
+healthy_684,['healthy'],healthy,['healthy'],1
+healthy_685,['healthy'],healthy,['healthy'],1
+healthy_686,['healthy'],healthy,['healthy'],1
+healthy_687,['healthy'],healthy,['healthy'],1
+healthy_689,['healthy'],healthy,['healthy'],1
+healthy_69,['healthy'],healthy,['healthy'],1
+healthy_690,['healthy'],healthy,['healthy'],1
+healthy_691,['healthy'],healthy,['healthy'],1
+healthy_692,['healthy'],healthy,['healthy'],1
+healthy_694,['healthy'],healthy,['healthy'],1
+healthy_695,['healthy'],healthy,['healthy'],1
+healthy_696,['healthy'],healthy,['healthy'],1
+healthy_697,['healthy'],healthy,['healthy'],1
+healthy_698,['healthy'],healthy,['healthy'],1
+healthy_699,['healthy'],healthy,['healthy'],1
+healthy_7,['healthy'],healthy,['healthy'],1
+healthy_70,['healthy'],healthy,['healthy'],1
+healthy_700,['healthy'],healthy,['healthy'],1
+healthy_702,['healthy'],healthy,['healthy'],1
+healthy_703,['healthy'],healthy,['healthy'],1
+healthy_704,['healthy'],healthy,['healthy'],1
+healthy_705,['healthy'],healthy,['healthy'],1
+healthy_706,['healthy'],healthy,['healthy'],1
+healthy_707,['healthy'],healthy,['healthy'],1
+healthy_708,['healthy'],healthy,['healthy'],1
+healthy_712,['healthy'],healthy,['healthy'],1
+healthy_713,['healthy'],healthy,['healthy'],1
+healthy_714,['healthy'],healthy,['healthy'],1
+healthy_715,['healthy'],healthy,['healthy'],1
+healthy_716,['healthy'],healthy,['healthy'],1
+healthy_717,['healthy'],healthy,['healthy'],1
+healthy_719,['healthy'],healthy,['healthy'],1
+healthy_72,['healthy'],healthy,['healthy'],1
+healthy_720,['healthy'],healthy,['healthy'],1
+healthy_721,['healthy'],healthy,['healthy'],1
+healthy_722,['healthy'],healthy,['healthy'],1
+healthy_723,['healthy'],healthy,['healthy'],1
+healthy_724,['healthy'],healthy,['healthy'],1
+healthy_725,['healthy'],healthy,['healthy'],1
+healthy_726,['healthy'],healthy,['healthy'],1
+healthy_727,['healthy'],healthy,['healthy'],1
+healthy_728,['healthy'],healthy,['healthy'],1
+healthy_729,['healthy'],healthy,['healthy'],1
+healthy_73,['healthy'],healthy,['healthy'],1
+healthy_730,['healthy'],healthy,['healthy'],1
+healthy_731,['healthy'],healthy,['healthy'],1
+healthy_733,['healthy'],healthy,['healthy'],1
+healthy_734,['healthy'],healthy,['healthy'],1
+healthy_736,['healthy'],healthy,['healthy'],1
+healthy_737,['healthy'],healthy,['healthy'],1
+healthy_738,['healthy'],healthy,['healthy'],1
+healthy_739,['healthy'],healthy,['healthy'],1
+healthy_74,['healthy'],healthy,['healthy'],1
+healthy_740,['healthy'],healthy,['healthy'],1
+healthy_741,['healthy'],healthy,['healthy'],1
+healthy_743,['healthy'],healthy,['healthy'],1
+healthy_744,['healthy'],healthy,['healthy'],1
+healthy_746,['healthy'],healthy,['healthy'],1
+healthy_747,['healthy'],healthy,['healthy'],1
+healthy_748,['healthy'],healthy,['healthy'],1
+healthy_749,['healthy'],healthy,['healthy'],1
+healthy_75,['healthy'],healthy,['healthy'],1
+healthy_750,['healthy'],healthy,['healthy'],1
+healthy_751,['healthy'],healthy,['healthy'],1
+healthy_752,['healthy'],healthy,['healthy'],1
+healthy_753,['healthy'],healthy,['healthy'],1
+healthy_755,['healthy'],healthy,['healthy'],1
+healthy_756,['healthy'],healthy,['healthy'],1
+healthy_757,['healthy'],healthy,['healthy'],1
+healthy_758,['healthy'],healthy,['healthy'],1
+healthy_76,['healthy'],healthy,['healthy'],1
+healthy_760,['healthy'],healthy,['healthy'],1
+healthy_761,['healthy'],healthy,['healthy'],1
+healthy_762,['healthy'],healthy,['healthy'],1
+healthy_763,['healthy'],healthy,['healthy'],1
+healthy_764,['healthy'],healthy,['healthy'],1
+healthy_765,['healthy'],healthy,['healthy'],1
+healthy_767,['healthy'],healthy,['healthy'],1
+healthy_768,['healthy'],healthy,['healthy'],1
+healthy_769,['healthy'],healthy,['healthy'],1
+healthy_770,['healthy'],healthy,['healthy'],1
+healthy_771,['healthy'],healthy,['healthy'],1
+healthy_772,['healthy'],healthy,['healthy'],1
+healthy_773,['healthy'],healthy,['healthy'],1
+healthy_774,['healthy'],healthy,['healthy'],1
+healthy_775,['healthy'],healthy,['healthy'],1
+healthy_777,['healthy'],healthy,['healthy'],1
+healthy_778,['healthy'],healthy,['healthy'],1
+healthy_78,['healthy'],healthy,['healthy'],1
+healthy_780,['healthy'],healthy,['healthy'],1
+healthy_782,['healthy'],healthy,['healthy'],1
+healthy_783,['healthy'],healthy,['healthy'],1
+healthy_785,['healthy'],healthy,['healthy'],1
+healthy_786,['healthy'],healthy,['healthy'],1
+healthy_787,['healthy'],healthy,['healthy'],1
+healthy_788,['healthy'],healthy,['healthy'],1
+healthy_789,['healthy'],healthy,['healthy'],1
+healthy_79,['healthy'],healthy,['healthy'],1
+healthy_790,['healthy'],healthy,['healthy'],1
+healthy_792,['healthy'],healthy,['healthy'],1
+healthy_793,['healthy'],healthy,['healthy'],1
+healthy_795,['healthy'],healthy,['healthy'],1
+healthy_796,['healthy'],healthy,['healthy'],1
+healthy_797,['healthy'],healthy,['healthy'],1
+healthy_798,['healthy'],healthy,['healthy'],1
+healthy_799,['healthy'],healthy,['healthy'],1
+healthy_8,['healthy'],healthy,['healthy'],1
+healthy_80,['healthy'],healthy,['healthy'],1
+healthy_800,['healthy'],healthy,['healthy'],1
+healthy_801,['healthy'],healthy,['healthy'],1
+healthy_803,['healthy'],healthy,['healthy'],1
+healthy_804,['healthy'],healthy,['healthy'],1
+healthy_805,['healthy'],healthy,['healthy'],1
+healthy_806,['healthy'],healthy,['healthy'],1
+healthy_807,['healthy'],healthy,['healthy'],1
+healthy_809,['healthy'],healthy,['healthy'],1
+healthy_81,['healthy'],healthy,['healthy'],1
+healthy_810,['healthy'],healthy,['healthy'],1
+healthy_811,['healthy'],healthy,['healthy'],1
+healthy_812,['healthy'],healthy,['healthy'],1
+healthy_813,['healthy'],healthy,['healthy'],1
+healthy_814,['healthy'],healthy,['healthy'],1
+healthy_815,['healthy'],healthy,['healthy'],1
+healthy_816,['healthy'],healthy,['healthy'],1
+healthy_817,['healthy'],healthy,['healthy'],1
+healthy_818,['healthy'],healthy,['healthy'],1
+healthy_819,['healthy'],healthy,['healthy'],1
+healthy_82,['healthy'],healthy,['healthy'],1
+healthy_820,['healthy'],healthy,['healthy'],1
+healthy_821,['healthy'],healthy,['healthy'],1
+healthy_822,['healthy'],healthy,['healthy'],1
+healthy_823,['healthy'],healthy,['healthy'],1
+healthy_825,['healthy'],healthy,['healthy'],1
+healthy_826,['healthy'],healthy,['healthy'],1
+healthy_827,['healthy'],healthy,['healthy'],1
+healthy_828,['healthy'],healthy,['healthy'],1
+healthy_829,['healthy'],healthy,['healthy'],1
+healthy_83,['healthy'],healthy,['healthy'],1
+healthy_830,['healthy'],healthy,['healthy'],1
+healthy_831,['healthy'],healthy,['healthy'],1
+healthy_832,['healthy'],healthy,['healthy'],1
+healthy_833,['healthy'],healthy,['healthy'],1
+healthy_834,['healthy'],healthy,['healthy'],1
+healthy_835,['healthy'],healthy,['healthy'],1
+healthy_836,['healthy'],healthy,['healthy'],1
+healthy_837,['healthy'],healthy,['healthy'],1
+healthy_838,['healthy'],healthy,['healthy'],1
+healthy_839,['healthy'],healthy,['healthy'],1
+healthy_84,['healthy'],healthy,['healthy'],1
+healthy_840,['healthy'],healthy,['healthy'],1
+healthy_842,['healthy'],healthy,['healthy'],1
+healthy_843,['healthy'],healthy,['healthy'],1
+healthy_844,['healthy'],healthy,['healthy'],1
+healthy_845,['healthy'],healthy,['healthy'],1
+healthy_846,['healthy'],healthy,['healthy'],1
+healthy_847,['healthy'],healthy,['healthy'],1
+healthy_848,['healthy'],healthy,['healthy'],1
+healthy_849,['healthy'],healthy,['healthy'],1
+healthy_85,['healthy'],healthy,['healthy'],1
+healthy_850,['healthy'],healthy,['healthy'],1
+healthy_851,['healthy'],healthy,['healthy'],1
+healthy_853,['healthy'],healthy,['healthy'],1
+healthy_855,['healthy'],healthy,['healthy'],1
+healthy_856,['healthy'],healthy,['healthy'],1
+healthy_857,['healthy'],healthy,['healthy'],1
+healthy_858,['healthy'],healthy,['healthy'],1
+healthy_859,['healthy'],healthy,['healthy'],1
+healthy_86,['healthy'],healthy,['healthy'],1
+healthy_860,['healthy'],healthy,['healthy'],1
+healthy_861,['healthy'],healthy,['healthy'],1
+healthy_862,['healthy'],healthy,['healthy'],1
+healthy_863,['healthy'],healthy,['healthy'],1
+healthy_864,['healthy'],healthy,['healthy'],1
+healthy_865,['healthy'],healthy,['healthy'],1
+healthy_866,['healthy'],healthy,['healthy'],1
+healthy_867,['healthy'],healthy,['healthy'],1
+healthy_868,['healthy'],healthy,['healthy'],1
+healthy_87,['healthy'],healthy,['healthy'],1
+healthy_870,['healthy'],healthy,['healthy'],1
+healthy_871,['healthy'],healthy,['healthy'],1
+healthy_872,['healthy'],healthy,['healthy'],1
+healthy_873,['healthy'],healthy,['healthy'],1
+healthy_874,['healthy'],healthy,['healthy'],1
+healthy_875,['healthy'],healthy,['healthy'],1
+healthy_876,['healthy'],healthy,['healthy'],1
+healthy_878,['healthy'],healthy,['healthy'],1
+healthy_879,['healthy'],healthy,['healthy'],1
+healthy_88,['healthy'],healthy,['healthy'],1
+healthy_880,['healthy'],healthy,['healthy'],1
+healthy_881,['healthy'],healthy,['healthy'],1
+healthy_882,['healthy'],healthy,['healthy'],1
+healthy_883,['healthy'],healthy,['healthy'],1
+healthy_884,['healthy'],healthy,['healthy'],1
+healthy_885,['healthy'],healthy,['healthy'],1
+healthy_886,['healthy'],healthy,['healthy'],1
+healthy_887,['healthy'],healthy,['healthy'],1
+healthy_888,['healthy'],healthy,['healthy'],1
+healthy_889,['healthy'],healthy,['healthy'],1
+healthy_89,['healthy'],healthy,['healthy'],1
+healthy_890,['healthy'],healthy,['healthy'],1
+healthy_891,['healthy'],healthy,['healthy'],1
+healthy_892,['healthy'],healthy,['healthy'],1
+healthy_893,['healthy'],healthy,['healthy'],1
+healthy_895,['healthy'],healthy,['healthy'],1
+healthy_896,['healthy'],healthy,['healthy'],1
+healthy_897,['healthy'],healthy,['healthy'],1
+healthy_898,['healthy'],healthy,['healthy'],1
+healthy_899,['healthy'],healthy,['healthy'],1
+healthy_9,['healthy'],healthy,['healthy'],1
+healthy_90,['healthy'],healthy,['healthy'],1
+healthy_900,['healthy'],healthy,['healthy'],1
+healthy_902,['healthy'],healthy,['healthy'],1
+healthy_904,['healthy'],healthy,['healthy'],1
+healthy_905,['healthy'],healthy,['healthy'],1
+healthy_906,['healthy'],healthy,['healthy'],1
+healthy_907,['healthy'],healthy,['healthy'],1
+healthy_908,['healthy'],healthy,['healthy'],1
+healthy_909,['healthy'],healthy,['healthy'],1
+healthy_91,['healthy'],healthy,['healthy'],1
+healthy_910,['healthy'],healthy,['healthy'],1
+healthy_911,['healthy'],healthy,['healthy'],1
+healthy_912,['healthy'],healthy,['healthy'],1
+healthy_913,['healthy'],healthy,['healthy'],1
+healthy_914,['healthy'],healthy,['healthy'],1
+healthy_915,['healthy'],healthy,['healthy'],1
+healthy_916,['healthy'],healthy,['healthy'],1
+healthy_917,['healthy'],healthy,['healthy'],1
+healthy_918,['healthy'],healthy,['healthy'],1
+healthy_919,['healthy'],healthy,['healthy'],1
+healthy_92,['healthy'],healthy,['healthy'],1
+healthy_920,['healthy'],healthy,['healthy'],1
+healthy_921,['healthy'],healthy,['healthy'],1
+healthy_924,['healthy'],healthy,['healthy'],1
+healthy_925,['healthy'],healthy,['healthy'],1
+healthy_926,['healthy'],healthy,['healthy'],1
+healthy_927,['healthy'],healthy,['healthy'],1
+healthy_928,['healthy'],healthy,['healthy'],1
+healthy_929,['healthy'],healthy,['healthy'],1
+healthy_93,['healthy'],healthy,['healthy'],1
+healthy_930,['healthy'],healthy,['healthy'],1
+healthy_932,['healthy'],healthy,['healthy'],1
+healthy_933,['healthy'],healthy,['healthy'],1
+healthy_934,['healthy'],healthy,['healthy'],1
+healthy_935,['healthy'],healthy,['healthy'],1
+healthy_936,['healthy'],healthy,['healthy'],1
+healthy_938,['healthy'],healthy,['healthy'],1
+healthy_94,['healthy'],healthy,['healthy'],1
+healthy_940,['healthy'],healthy,['healthy'],1
+healthy_941,['healthy'],healthy,['healthy'],1
+healthy_942,['healthy'],healthy,['healthy'],1
+healthy_943,['healthy'],healthy,['healthy'],1
+healthy_944,['healthy'],healthy,['healthy'],1
+healthy_945,['healthy'],healthy,['healthy'],1
+healthy_946,['healthy'],healthy,['healthy'],1
+healthy_947,['healthy'],healthy,['healthy'],1
+healthy_948,['healthy'],healthy,['healthy'],1
+healthy_949,['healthy'],healthy,['healthy'],1
+healthy_95,['healthy'],healthy,['healthy'],1
+healthy_950,['healthy'],healthy,['healthy'],1
+healthy_951,['healthy'],healthy,['healthy'],1
+healthy_952,['healthy'],healthy,['healthy'],1
+healthy_953,['healthy'],healthy,['healthy'],1
+healthy_954,['healthy'],healthy,['healthy'],1
+healthy_955,['healthy'],healthy,['healthy'],1
+healthy_957,['healthy'],healthy,['healthy'],1
+healthy_958,['healthy'],healthy,['healthy'],1
+healthy_959,['healthy'],healthy,['healthy'],1
+healthy_96,['healthy'],healthy,['healthy'],1
+healthy_960,['healthy'],healthy,['healthy'],1
+healthy_961,['healthy'],healthy,['healthy'],1
+healthy_962,['healthy'],healthy,['healthy'],1
+healthy_964,['healthy'],healthy,['healthy'],1
+healthy_965,['healthy'],healthy,['healthy'],1
+healthy_966,['healthy'],healthy,['healthy'],1
+healthy_967,['healthy'],healthy,['healthy'],1
+healthy_968,['healthy'],healthy,['healthy'],1
+healthy_969,['healthy'],healthy,['healthy'],1
+healthy_970,['healthy'],healthy,['healthy'],1
+healthy_971,['healthy'],healthy,['healthy'],1
+healthy_972,['healthy'],healthy,['healthy'],1
+healthy_973,['healthy'],healthy,['healthy'],1
+healthy_974,['healthy'],healthy,['healthy'],1
+healthy_976,['healthy'],healthy,['healthy'],1
+healthy_978,['healthy'],healthy,['healthy'],1
+healthy_979,['healthy'],healthy,['healthy'],1
+healthy_98,['healthy'],healthy,['healthy'],1
+healthy_980,['healthy'],healthy,['healthy'],1
+healthy_981,['healthy'],healthy,['healthy'],1
+healthy_982,['healthy'],healthy,['healthy'],1
+healthy_983,['healthy'],healthy,['healthy'],1
+healthy_984,['healthy'],healthy,['healthy'],1
+healthy_985,['healthy'],healthy,['healthy'],1
+healthy_986,['healthy'],healthy,['healthy'],1
+healthy_987,['healthy'],healthy,['healthy'],1
+healthy_988,['healthy'],healthy,['healthy'],1
+healthy_989,['healthy'],healthy,['healthy'],1
+healthy_99,['healthy'],healthy,['healthy'],1
+healthy_990,['healthy'],healthy,['healthy'],1
+healthy_991,['healthy'],healthy,['healthy'],1
+healthy_992,['healthy'],healthy,['healthy'],1
+healthy_993,['healthy'],healthy,['healthy'],1
+healthy_994,['healthy'],healthy,['healthy'],1
+healthy_995,['healthy'],healthy,['healthy'],1
+healthy_996,['healthy'],healthy,['healthy'],1
+healthy_997,['healthy'],healthy,['healthy'],1
+healthy_998,['healthy'],healthy,['healthy'],1
+healthy_999,['healthy'],healthy,['healthy'],1
+leaf_curl_104,['leaf_curl'],leaf_curl,['leaf_curl'],1
+leaf_curl_132,['leaf_curl'],leaf_curl,['leaf_curl'],1
+leaf_curl_14,['leaf_curl'],leaf_curl,['leaf_curl'],1
+leaf_curl_205,['leaf_curl'],leaf_curl,['leaf_curl'],1
+leaf_curl_299,['leaf_curl'],leaf_curl,['leaf_curl'],1
+leaf_curl_34,['leaf_curl'],leaf_curl,['leaf_curl'],1
+leaf_curl_351,"['leaf_curl', 'bacterial_spot', 'rust']",leaf_curl,"['leaf_curl', 'bacterial_spot', 'rust']",1
+leaf_curl_352,"['early_blight', 'leaf_curl', 'rust']",leaf_curl,"['early_blight', 'leaf_curl', 'rust']",1
+leaf_curl_391,['leaf_curl'],leaf_curl,['leaf_curl'],1
+leaf_curl_433,"['early_blight', 'leaf_curl']",leaf_curl,"['early_blight', 'leaf_curl']",1
+leaf_curl_457,['leaf_curl'],leaf_curl,['leaf_curl'],1
+leaf_curl_480,['leaf_curl'],leaf_curl,['leaf_curl'],1
+leaf_curl_488,"['early_blight', 'leaf_curl', 'rust']",leaf_curl,"['early_blight', 'leaf_curl', 'rust']",1
+leaf_curl_509,['leaf_curl'],leaf_curl,['leaf_curl'],1
+leaf_curl_522,['leaf_curl'],leaf_curl,['leaf_curl'],1
+leaf_curl_545,['leaf_curl'],leaf_curl,['leaf_curl'],1
+leaf_curl_571,"['leaf_curl', 'bacterial_spot', 'rust']",leaf_curl,"['leaf_curl', 'bacterial_spot', 'rust']",1
+leaf_curl_626,"['early_blight', 'leaf_curl', 'rust']",leaf_curl,"['early_blight', 'leaf_curl', 'rust']",1
+leaf_curl_637,"['early_blight', 'leaf_curl']",leaf_curl,"['early_blight', 'leaf_curl']",1
+leaf_curl_685,"['early_blight', 'leaf_curl', 'bacterial_spot']",leaf_curl,"['early_blight', 'leaf_curl', 'bacterial_spot']",1
+leaf_curl_717,"['early_blight', 'leaf_curl', 'rust']",leaf_curl,"['early_blight', 'leaf_curl', 'rust']",1
+leaf_curl_718,['leaf_curl'],leaf_curl,['leaf_curl'],1
+leaf_curl_723,"['early_blight', 'leaf_curl']",leaf_curl,"['early_blight', 'leaf_curl']",1
+leaf_curl_738,"['early_blight', 'leaf_curl']",leaf_curl,"['early_blight', 'leaf_curl']",1
+leaf_curl_751,['leaf_curl'],leaf_curl,['leaf_curl'],1
+leaf_curl_763,['leaf_curl'],leaf_curl,['leaf_curl'],1
+leaf_curl_86,['leaf_curl'],leaf_curl,['leaf_curl'],1
+leaf_curl_878,"['leaf_curl', 'bacterial_spot', 'rust']",leaf_curl,"['leaf_curl', 'bacterial_spot', 'rust']",1
+leaf_curl_888,"['early_blight', 'leaf_curl', 'rust']",leaf_curl,"['early_blight', 'leaf_curl', 'rust']",1
+leaf_curl_915,['leaf_curl'],leaf_curl,['leaf_curl'],1
+leaf_curl_948,"['early_blight', 'leaf_curl', 'bacterial_spot']",leaf_curl,"['early_blight', 'leaf_curl', 'bacterial_spot']",1
+leaf_curl_951,['leaf_curl'],leaf_curl,['leaf_curl'],1
+rust_1,['rust'],rust,['rust'],1
+rust_100,['rust'],rust,['rust'],1
+rust_1001,['rust'],rust,['rust'],1
+rust_1009,['rust'],rust,['rust'],1
+rust_1014,['rust'],rust,['rust'],1
+rust_1019,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_102,['rust'],rust,['rust'],1
+rust_1021,['rust'],rust,['rust'],1
+rust_1023,['rust'],rust,['rust'],1
+rust_1027,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_1029,['rust'],rust,['rust'],1
+rust_1031,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_1036,['rust'],rust,['rust'],1
+rust_1044,['rust'],rust,['rust'],1
+rust_1049,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_105,['rust'],rust,['rust'],1
+rust_1050,['rust'],rust,['rust'],1
+rust_1052,['rust'],rust,['rust'],1
+rust_1055,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_1057,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_1058,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_1059,['rust'],rust,['rust'],1
+rust_1061,['rust'],rust,['rust'],1
+rust_1066,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_107,['rust'],rust,['rust'],1
+rust_1072,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_1075,['rust'],rust,['rust'],1
+rust_1076,['rust'],rust,['rust'],1
+rust_1078,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_1099,['rust'],rust,['rust'],1
+rust_110,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_1104,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_1106,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_1117,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_1118,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_1122,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_1124,['rust'],rust,['rust'],1
+rust_1126,"['early_blight', 'rust']",rust,"['early_blight', 'rust']",1
+rust_1127,"['leaf_curl', 'bacterial_spot', 'rust']",rust,"['leaf_curl', 'bacterial_spot', 'rust']",1
+rust_113,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_1130,['rust'],rust,['rust'],1
+rust_1140,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_1146,['rust'],rust,['rust'],1
+rust_1150,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_1152,['rust'],rust,['rust'],1
+rust_1154,['rust'],rust,['rust'],1
+rust_1155,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_1165,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_1170,"['early_blight', 'rust']",rust,"['early_blight', 'rust']",1
+rust_1171,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_1172,['rust'],rust,['rust'],1
+rust_1174,['rust'],rust,['rust'],1
+rust_1176,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_1179,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_1181,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_1183,['rust'],rust,['rust'],1
+rust_1184,"['early_blight', 'leaf_curl', 'rust']",rust,"['early_blight', 'leaf_curl', 'rust']",1
+rust_1192,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_1194,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_1199,['rust'],rust,['rust'],1
+rust_1200,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_1202,['rust'],rust,['rust'],1
+rust_1204,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_1209,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_121,['rust'],rust,['rust'],1
+rust_1212,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_122,['rust'],rust,['rust'],1
+rust_1225,"['early_blight', 'leaf_curl', 'rust']",rust,"['early_blight', 'leaf_curl', 'rust']",1
+rust_1231,['rust'],rust,['rust'],1
+rust_1237,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_1238,['rust'],rust,['rust'],1
+rust_1241,['rust'],rust,['rust'],1
+rust_1247,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_1248,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_1249,"['early_blight', 'leaf_curl', 'rust']",rust,"['early_blight', 'leaf_curl', 'rust']",1
+rust_1255,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_1257,"['early_blight', 'rust']",rust,"['early_blight', 'rust']",1
+rust_126,['rust'],rust,['rust'],1
+rust_1260,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_1270,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_1273,['rust'],rust,['rust'],1
+rust_1282,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_1287,['rust'],rust,['rust'],1
+rust_1291,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_1293,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_13,['rust'],rust,['rust'],1
+rust_1314,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_1316,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_1317,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_1320,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_1323,"['leaf_curl', 'bacterial_spot', 'rust']",rust,"['leaf_curl', 'bacterial_spot', 'rust']",1
+rust_1325,['rust'],rust,['rust'],1
+rust_1333,['rust'],rust,['rust'],1
+rust_1335,"['early_blight', 'leaf_curl', 'rust']",rust,"['early_blight', 'leaf_curl', 'rust']",1
+rust_1336,['rust'],rust,['rust'],1
+rust_1338,['rust'],rust,['rust'],1
+rust_1339,['rust'],rust,['rust'],1
+rust_1340,['rust'],rust,['rust'],1
+rust_1341,['rust'],rust,['rust'],1
+rust_1345,['rust'],rust,['rust'],1
+rust_1356,['rust'],rust,['rust'],1
+rust_1357,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_1365,['rust'],rust,['rust'],1
+rust_1371,['rust'],rust,['rust'],1
+rust_1373,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_1376,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_1377,['rust'],rust,['rust'],1
+rust_1378,['rust'],rust,['rust'],1
+rust_1384,['rust'],rust,['rust'],1
+rust_1386,['rust'],rust,['rust'],1
+rust_1388,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_1389,"['early_blight', 'rust']",rust,"['early_blight', 'rust']",1
+rust_1395,['rust'],rust,['rust'],1
+rust_1396,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_1400,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_1401,['rust'],rust,['rust'],1
+rust_1402,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_1404,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_141,['rust'],rust,['rust'],1
+rust_1411,['rust'],rust,['rust'],1
+rust_1412,['rust'],rust,['rust'],1
+rust_1415,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_1424,['rust'],rust,['rust'],1
+rust_1425,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_1430,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_1431,['rust'],rust,['rust'],1
+rust_1435,['rust'],rust,['rust'],1
+rust_1439,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_1443,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_145,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_1450,['rust'],rust,['rust'],1
+rust_1451,"['leaf_curl', 'bacterial_spot', 'rust']",rust,"['leaf_curl', 'bacterial_spot', 'rust']",1
+rust_1454,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_1456,['rust'],rust,['rust'],1
+rust_1459,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_1468,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_1470,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_1473,['rust'],rust,['rust'],1
+rust_1475,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_1476,['rust'],rust,['rust'],1
+rust_1482,['rust'],rust,['rust'],1
+rust_1492,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_1494,['rust'],rust,['rust'],1
+rust_1498,['rust'],rust,['rust'],1
+rust_1504,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_152,"['early_blight', 'bacterial_spot', 'rust']",rust,"['early_blight', 'bacterial_spot', 'rust']",1
+rust_1522,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_1528,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_1530,['rust'],rust,['rust'],1
+rust_1532,"['leaf_curl', 'bacterial_spot', 'rust']",rust,"['leaf_curl', 'bacterial_spot', 'rust']",1
+rust_1533,['rust'],rust,['rust'],1
+rust_1543,['rust'],rust,['rust'],1
+rust_1544,['rust'],rust,['rust'],1
+rust_1546,['rust'],rust,['rust'],1
+rust_1548,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_1551,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_1554,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_1557,['rust'],rust,['rust'],1
+rust_156,['rust'],rust,['rust'],1
+rust_1560,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_1562,['rust'],rust,['rust'],1
+rust_1575,['rust'],rust,['rust'],1
+rust_1580,['rust'],rust,['rust'],1
+rust_1582,['rust'],rust,['rust'],1
+rust_1583,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_1587,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_1593,['rust'],rust,['rust'],1
+rust_1602,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_1609,['rust'],rust,['rust'],1
+rust_1612,['rust'],rust,['rust'],1
+rust_1615,['rust'],rust,['rust'],1
+rust_1616,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_1617,['rust'],rust,['rust'],1
+rust_162,['rust'],rust,['rust'],1
+rust_1620,['rust'],rust,['rust'],1
+rust_1625,['rust'],rust,['rust'],1
+rust_1626,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_1628,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_1631,"['early_blight', 'leaf_curl', 'rust']",rust,"['early_blight', 'leaf_curl', 'rust']",1
+rust_1632,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_1634,['rust'],rust,['rust'],1
+rust_1635,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_1652,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_1658,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_1659,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_1661,['rust'],rust,['rust'],1
+rust_1665,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_1666,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_1667,['rust'],rust,['rust'],1
+rust_1670,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_1678,['rust'],rust,['rust'],1
+rust_1679,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_1681,['rust'],rust,['rust'],1
+rust_1682,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_1685,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_1688,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_169,['rust'],rust,['rust'],1
+rust_1694,['rust'],rust,['rust'],1
+rust_1697,['rust'],rust,['rust'],1
+rust_1701,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_1703,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_1706,['rust'],rust,['rust'],1
+rust_1713,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_1717,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_1719,"['leaf_curl', 'bacterial_spot', 'rust']",rust,"['leaf_curl', 'bacterial_spot', 'rust']",1
+rust_1720,['rust'],rust,['rust'],1
+rust_1727,['rust'],rust,['rust'],1
+rust_1728,['rust'],rust,['rust'],1
+rust_1731,['rust'],rust,['rust'],1
+rust_1735,"['leaf_curl', 'bacterial_spot', 'rust']",rust,"['leaf_curl', 'bacterial_spot', 'rust']",1
+rust_1738,['rust'],rust,['rust'],1
+rust_174,['rust'],rust,['rust'],1
+rust_1740,['rust'],rust,['rust'],1
+rust_1745,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_1749,['rust'],rust,['rust'],1
+rust_1753,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_1759,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_1762,['rust'],rust,['rust'],1
+rust_1768,['rust'],rust,['rust'],1
+rust_179,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_180,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_188,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_19,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_190,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_194,['rust'],rust,['rust'],1
+rust_2,['rust'],rust,['rust'],1
+rust_208,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_211,['rust'],rust,['rust'],1
+rust_22,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_226,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_240,['rust'],rust,['rust'],1
+rust_241,['rust'],rust,['rust'],1
+rust_26,['rust'],rust,['rust'],1
+rust_261,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_264,['rust'],rust,['rust'],1
+rust_269,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_272,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_281,['rust'],rust,['rust'],1
+rust_284,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_285,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_287,['rust'],rust,['rust'],1
+rust_288,"['leaf_curl', 'bacterial_spot', 'rust']",rust,"['leaf_curl', 'bacterial_spot', 'rust']",1
+rust_303,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_304,['rust'],rust,['rust'],1
+rust_311,"['leaf_curl', 'bacterial_spot', 'rust']",rust,"['leaf_curl', 'bacterial_spot', 'rust']",1
+rust_316,['rust'],rust,['rust'],1
+rust_320,['rust'],rust,['rust'],1
+rust_325,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_326,['rust'],rust,['rust'],1
+rust_327,['rust'],rust,['rust'],1
+rust_328,['rust'],rust,['rust'],1
+rust_331,"['early_blight', 'leaf_curl', 'rust']",rust,"['early_blight', 'leaf_curl', 'rust']",1
+rust_335,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_34,['rust'],rust,['rust'],1
+rust_343,['rust'],rust,['rust'],1
+rust_351,['rust'],rust,['rust'],1
+rust_352,['rust'],rust,['rust'],1
+rust_355,['rust'],rust,['rust'],1
+rust_357,['rust'],rust,['rust'],1
+rust_364,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_37,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_374,['rust'],rust,['rust'],1
+rust_378,['rust'],rust,['rust'],1
+rust_379,['rust'],rust,['rust'],1
+rust_38,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_386,['rust'],rust,['rust'],1
+rust_397,['rust'],rust,['rust'],1
+rust_401,['rust'],rust,['rust'],1
+rust_409,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_41,['rust'],rust,['rust'],1
+rust_410,['rust'],rust,['rust'],1
+rust_412,['rust'],rust,['rust'],1
+rust_419,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_421,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_426,['rust'],rust,['rust'],1
+rust_428,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_437,['rust'],rust,['rust'],1
+rust_443,['rust'],rust,['rust'],1
+rust_447,['rust'],rust,['rust'],1
+rust_449,['rust'],rust,['rust'],1
+rust_451,['rust'],rust,['rust'],1
+rust_456,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_462,['rust'],rust,['rust'],1
+rust_467,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_469,"['early_blight', 'rust']",rust,"['early_blight', 'rust']",1
+rust_474,['rust'],rust,['rust'],1
+rust_476,['rust'],rust,['rust'],1
+rust_480,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_482,['rust'],rust,['rust'],1
+rust_49,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_493,['rust'],rust,['rust'],1
+rust_5,['rust'],rust,['rust'],1
+rust_50,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_504,['rust'],rust,['rust'],1
+rust_513,['rust'],rust,['rust'],1
+rust_515,['rust'],rust,['rust'],1
+rust_527,['rust'],rust,['rust'],1
+rust_532,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_538,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_543,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_552,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_554,['rust'],rust,['rust'],1
+rust_564,['rust'],rust,['rust'],1
+rust_571,"['early_blight', 'rust']",rust,"['early_blight', 'rust']",1
+rust_577,['rust'],rust,['rust'],1
+rust_579,['rust'],rust,['rust'],1
+rust_587,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_594,['rust'],rust,['rust'],1
+rust_598,['rust'],rust,['rust'],1
+rust_604,['rust'],rust,['rust'],1
+rust_606,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_610,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_612,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_619,['rust'],rust,['rust'],1
+rust_62,['rust'],rust,['rust'],1
+rust_622,['rust'],rust,['rust'],1
+rust_633,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_635,['rust'],rust,['rust'],1
+rust_639,"['leaf_curl', 'bacterial_spot', 'rust']",rust,"['leaf_curl', 'bacterial_spot', 'rust']",1
+rust_64,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_643,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_648,"['leaf_curl', 'bacterial_spot', 'rust']",rust,"['leaf_curl', 'bacterial_spot', 'rust']",1
+rust_649,['rust'],rust,['rust'],1
+rust_655,['rust'],rust,['rust'],1
+rust_656,['rust'],rust,['rust'],1
+rust_658,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_660,['rust'],rust,['rust'],1
+rust_663,['rust'],rust,['rust'],1
+rust_664,['rust'],rust,['rust'],1
+rust_667,['rust'],rust,['rust'],1
+rust_677,"['early_blight', 'rust']",rust,"['early_blight', 'rust']",1
+rust_680,['rust'],rust,['rust'],1
+rust_683,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_685,['rust'],rust,['rust'],1
+rust_689,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_690,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_692,['rust'],rust,['rust'],1
+rust_693,['rust'],rust,['rust'],1
+rust_697,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_698,"['early_blight', 'rust']",rust,"['early_blight', 'rust']",1
+rust_699,['rust'],rust,['rust'],1
+rust_70,['rust'],rust,['rust'],1
+rust_702,['rust'],rust,['rust'],1
+rust_703,['rust'],rust,['rust'],1
+rust_704,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_712,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_713,['rust'],rust,['rust'],1
+rust_715,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_718,['rust'],rust,['rust'],1
+rust_72,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_724,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_725,"['early_blight', 'rust']",rust,"['early_blight', 'rust']",1
+rust_728,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_729,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_733,['rust'],rust,['rust'],1
+rust_736,['rust'],rust,['rust'],1
+rust_739,['rust'],rust,['rust'],1
+rust_74,"['leaf_curl', 'bacterial_spot', 'rust']",rust,"['leaf_curl', 'bacterial_spot', 'rust']",1
+rust_740,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_745,['rust'],rust,['rust'],1
+rust_75,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_753,"['early_blight', 'leaf_curl', 'rust']",rust,"['early_blight', 'leaf_curl', 'rust']",1
+rust_76,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_762,"['early_blight', 'leaf_curl', 'rust']",rust,"['early_blight', 'leaf_curl', 'rust']",1
+rust_765,['rust'],rust,['rust'],1
+rust_767,['rust'],rust,['rust'],1
+rust_768,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_772,['rust'],rust,['rust'],1
+rust_776,['rust'],rust,['rust'],1
+rust_778,['rust'],rust,['rust'],1
+rust_78,['rust'],rust,['rust'],1
+rust_780,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_788,['rust'],rust,['rust'],1
+rust_789,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_794,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_795,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_797,['rust'],rust,['rust'],1
+rust_80,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_804,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_807,['rust'],rust,['rust'],1
+rust_810,['rust'],rust,['rust'],1
+rust_814,['rust'],rust,['rust'],1
+rust_816,['rust'],rust,['rust'],1
+rust_821,['rust'],rust,['rust'],1
+rust_824,['rust'],rust,['rust'],1
+rust_827,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_829,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_830,['rust'],rust,['rust'],1
+rust_834,['rust'],rust,['rust'],1
+rust_838,['rust'],rust,['rust'],1
+rust_839,['rust'],rust,['rust'],1
+rust_840,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_842,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_844,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_847,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_848,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_85,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_854,['rust'],rust,['rust'],1
+rust_857,['rust'],rust,['rust'],1
+rust_860,['rust'],rust,['rust'],1
+rust_861,['rust'],rust,['rust'],1
+rust_863,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_864,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_867,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_870,"['early_blight', 'leaf_curl', 'rust']",rust,"['early_blight', 'leaf_curl', 'rust']",1
+rust_872,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_879,['rust'],rust,['rust'],1
+rust_880,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_882,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_887,['rust'],rust,['rust'],1
+rust_893,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_900,['rust'],rust,['rust'],1
+rust_904,['rust'],rust,['rust'],1
+rust_911,['rust'],rust,['rust'],1
+rust_912,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_915,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_916,['rust'],rust,['rust'],1
+rust_928,['rust'],rust,['rust'],1
+rust_930,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_940,['rust'],rust,['rust'],1
+rust_944,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_947,['rust'],rust,['rust'],1
+rust_948,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_952,['rust'],rust,['rust'],1
+rust_954,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_959,"['early_blight', 'leaf_curl', 'rust']",rust,"['early_blight', 'leaf_curl', 'rust']",1
+rust_963,['rust'],rust,['rust'],1
+rust_964,"['early_blight', 'rust']",rust,"['early_blight', 'rust']",1
+rust_965,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_97,['rust'],rust,['rust'],1
+rust_971,['rust'],rust,['rust'],1
+rust_975,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_976,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_978,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_98,['rust'],rust,['rust'],1
+rust_981,['rust'],rust,['rust'],1
+rust_983,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_99,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1
+rust_990,"['leaf_curl', 'rust']",rust,"['leaf_curl', 'rust']",1
+rust_994,"['bacterial_spot', 'rust']",rust,"['bacterial_spot', 'rust']",1

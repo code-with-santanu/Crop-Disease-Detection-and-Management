@@ -61,11 +61,13 @@ def analysis_report(directory_path):
             # Append the result to the results list
             report.append(result)
 
-    # Create a DataFrame from the results
-    df = pd.DataFrame(report)
+    # # Create a DataFrame from the results
+    # df = pd.DataFrame(report)
 
-    # Export the DataFrame to a CSV file
-    output_dir = "F:\\Users\\Santanu\\Desktop\\paper_syn\\codebase\\output"
-    output_path = os.path.join(
-        output_dir, "image_analysis_results.csv")
-    df.to_csv(output_path, index=False)
+    # # Export the DataFrame to a CSV file
+    # output_dir = "F:\\Users\\Santanu\\Desktop\\paper_syn\\codebase\\output"
+    # output_path = os.path.join(
+    #     output_dir, "image_analysis_results.csv")
+    # df.to_csv(output_path, index=False)
+
+    return report
